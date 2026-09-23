@@ -1,0 +1,128 @@
+[
+  {
+    "id": "reading_1",
+    "title": "The Sunday Market",
+    "level": "A2",
+    "category": "Daily Life",
+    "read_time": "3 min",
+    "content": "Every Sunday morning, Mia walks to the small market near her house. She takes a cloth bag because she does not want to use plastic bags. The market opens at eight o'clock, but Mia usually arrives a little later.\n\nFirst, she visits the fruit stand. The apples are red and sweet, and the oranges smell fresh. The seller knows Mia and always gives her a small apple to try. Then she buys tomatoes, bread, and a bunch of flowers for her kitchen table.\n\nAfter shopping, Mia sits at a little cafe with her friend Leo. They drink tea and talk about the week. Leo often tells funny stories about his new job. At eleven o'clock, they walk home with their bags. Mia likes Sundays because the market makes her quiet morning feel special.",
+    "vocabulary_hints": [
+      { "word": "cloth bag", "translation": "тканевая сумка" },
+      { "word": "stand", "translation": "торговый прилавок" },
+      { "word": "fresh", "translation": "свежий" },
+      { "word": "a bunch of flowers", "translation": "букет цветов" }
+    ],
+    "tasks": [
+      { "question": "Why does Mia take a cloth bag?", "options": ["She wants to carry flowers", "She does not want plastic bags", "The market gives her one", "She lost her old bag"], "correct": "She does not want plastic bags" },
+      { "question": "What does Mia do after shopping?", "options": ["She goes straight to work", "She visits another market", "She sits at a cafe with Leo", "She cooks lunch at the market"], "correct": "She sits at a cafe with Leo" },
+      { "question": "What does the seller give Mia to try?", "options": ["A tomato", "A small apple", "A piece of bread", "An orange flower"], "correct": "A small apple" },
+      { "question": "What time does the market open?", "options": ["At seven o'clock", "At eight o'clock", "At ten o'clock", "At eleven o'clock"], "correct": "At eight o'clock" },
+      { "question": "Why does Mia like Sundays?", "options": ["She works at the market", "She can sleep all day", "The market makes her quiet morning special", "Leo gives her flowers"], "correct": "The market makes her quiet morning special" }
+    ]
+  },
+  {
+    "id": "reading_2",
+    "title": "A New Seat on the Bus",
+    "level": "A2",
+    "category": "Stories",
+    "read_time": "3 min",
+    "content": "On her first day at a new school, Nora feels nervous. She gets on the number 14 bus and sits by the window. The bus is crowded, so she keeps her school map on her knees and looks at it again and again.\n\nAt the next stop, a boy called Sam sits beside her. He notices the map and asks if she is new. Nora says yes. Sam explains where the school library, science room, and lunch hall are. He also tells her that the best hot chocolate is sold near the sports field.\n\nWhen they arrive, Sam walks with Nora to the school gate. During lunch, he introduces her to two classmates. Nora is still a little nervous, but she is no longer alone. On the bus home, she smiles when she sees the number 14 sign. A small conversation has made a big difference.",
+    "vocabulary_hints": [
+      { "word": "crowded", "translation": "переполненный" },
+      { "word": "notice", "translation": "замечать" },
+      { "word": "introduce", "translation": "представлять, знакомить" },
+      { "word": "make a difference", "translation": "иметь значение" }
+    ],
+    "tasks": [
+      { "question": "Why is Nora nervous?", "options": ["She is late for the bus", "It is her first day at a new school", "She does not like hot chocolate", "She cannot find her map"], "correct": "It is her first day at a new school" },
+      { "question": "How does Sam help Nora?", "options": ["He gives her a new school bag", "He drives her home", "He explains the school and introduces her to classmates", "He does her homework"], "correct": "He explains the school and introduces her to classmates" },
+      { "question": "Where does Nora sit on the bus?", "options": ["Near the driver", "By the window", "Beside the school gate", "At the back of the lunch hall"], "correct": "By the window" },
+      { "question": "What does Sam say is sold near the sports field?", "options": ["The best hot chocolate", "Fresh bread", "School maps", "Science books"], "correct": "The best hot chocolate" },
+      { "question": "How does Nora feel on the bus home?", "options": ["She is angry and lost", "She is still completely alone", "She smiles when she sees the number 14 sign", "She is worried about the market"], "correct": "She smiles when she sees the number 14 sign" }
+    ]
+  },
+  {
+    "id": "reading_3",
+    "title": "The Quiet Power of a Walk",
+    "level": "B2",
+    "category": "Daily Life",
+    "read_time": "4 min",
+    "content": "When people feel overwhelmed, they often reach for their phones. Yet a simple walk may be one of the most effective ways to reset a busy mind. Walking does not require expensive equipment or a special location; it only asks us to step outside and pay attention to the world around us.\n\nResearchers have linked regular walking with better mood, improved sleep, and clearer thinking. Part of the benefit comes from movement, but the surroundings matter too. Looking at trees, noticing changes in the weather, or hearing ordinary city sounds can interrupt the cycle of anxious thoughts. This shift in attention gives the brain a short, useful break.\n\nA walk is not a magic solution to serious problems. However, it can create enough mental space to decide what to do next. Some people use ten minutes between meetings to walk without headphones. Others take a longer evening walk to reflect on their day. The important point is not the distance, but the chance to be present for a while.",
+    "vocabulary_hints": [
+      { "word": "overwhelmed", "translation": "подавленный, перегруженный" },
+      { "word": "reset", "translation": "перезагрузить, восстановить" },
+      { "word": "surroundings", "translation": "окружение" },
+      { "word": "mental space", "translation": "ментальное пространство, возможность спокойно подумать" }
+    ],
+    "tasks": [
+      { "question": "What does the text describe as a benefit of walking?", "options": ["It guarantees a solution to serious problems", "It can improve mood and make thinking clearer", "It replaces the need for sleep", "It is always faster than public transport"], "correct": "It can improve mood and make thinking clearer" },
+      { "question": "According to the text, what matters most about a walk?", "options": ["Walking a very long distance", "Using expensive equipment", "Being present for a while", "Listening to music loudly"], "correct": "Being present for a while" },
+      { "question": "Which result has researchers linked with regular walking?", "options": ["Less need for food", "Better mood and improved sleep", "Permanent freedom from anxiety", "Faster internet access"], "correct": "Better mood and improved sleep" },
+      { "question": "How can noticing surroundings help the brain?", "options": ["It interrupts anxious thoughts", "It makes a walk more expensive", "It removes the need to think", "It guarantees a solution"], "correct": "It interrupts anxious thoughts" },
+      { "question": "What does the author say a walk is not?", "options": ["A form of movement", "A chance to reflect", "A magic solution to serious problems", "A way to create mental space"], "correct": "A magic solution to serious problems" }
+    ]
+  },
+  {
+    "id": "reading_4",
+    "title": "A Library That Travels",
+    "level": "B2",
+    "category": "Stories",
+    "read_time": "4 min",
+    "content": "Every Thursday, a bright blue van parks in villages that are too far from the nearest public library. Inside the vehicle are shelves of novels, picture books, magazines, and practical guides. The project began when librarian Elena noticed that many children in remote communities had internet access but very few physical books.\n\nThe travelling library does more than lend books. Visitors can ask for reading recommendations, join a short storytelling session, or exchange a book they have already finished. Elena keeps notes about popular subjects, but she also brings unexpected titles so that readers can discover something new.\n\nAt first, some adults considered the van a temporary experiment. After two years, it has become a weekly meeting place. Teenagers come to discuss science-fiction stories, parents search for language-learning books, and older residents borrow newspapers. The van proves that a library is not only a building. It is a habit of sharing ideas, wherever people live.",
+    "vocabulary_hints": [
+      { "word": "remote", "translation": "отдалённый" },
+      { "word": "lend", "translation": "одалживать" },
+      { "word": "recommendation", "translation": "рекомендация" },
+      { "word": "temporary experiment", "translation": "временный эксперимент" }
+    ],
+    "tasks": [
+      { "question": "Why was the travelling library created?", "options": ["To sell bright blue vans", "Because remote villages lacked access to physical books", "Because the old library needed more parking", "To teach people to drive"], "correct": "Because remote villages lacked access to physical books" },
+      { "question": "What does the van offer besides borrowing books?", "options": ["Free internet repairs", "Storytelling sessions and recommendations", "Daily meals", "Bus tickets"], "correct": "Storytelling sessions and recommendations" },
+      { "question": "What did Elena notice about children in remote communities?", "options": ["They disliked all stories", "They had internet but few physical books", "They only read newspapers", "They lived near several libraries"], "correct": "They had internet but few physical books" },
+      { "question": "Why does Elena bring unexpected titles?", "options": ["To make the van heavier", "So readers can discover something new", "Because popular books are forbidden", "To replace the storytelling sessions"], "correct": "So readers can discover something new" },
+      { "question": "How has the van changed after two years?", "options": ["It became a weekly meeting place", "It stopped visiting villages", "It turned into a bookshop", "It only serves teenagers"], "correct": "It became a weekly meeting place" }
+    ]
+  },
+  {
+    "id": "reading_5",
+    "title": "Designing Better Digital Habits",
+    "level": "C1",
+    "category": "Tech",
+    "read_time": "5 min",
+    "content": "Digital tools are often described as neutral, but the way they are designed can strongly influence our behaviour. A notification, for instance, is not merely information: it is an invitation to interrupt whatever we are doing. When several services compete for our attention, concentration becomes a resource that must be actively protected.\n\nOne practical response is to design a personal attention system. This might involve disabling non-essential notifications, grouping messages into specific checking periods, and keeping the most distracting applications away from the home screen. The aim is not to reject technology, but to make its default settings serve our priorities rather than the priorities of advertisers or platforms.\n\nSuch changes may feel uncomfortable at first because constant availability has become a social expectation. Nevertheless, boundaries can improve both efficiency and communication. A person who checks messages at planned intervals may reply more thoughtfully than someone who reacts instantly to every alert. Digital wellbeing, in this sense, is less about using devices less and more about using them deliberately.",
+    "vocabulary_hints": [
+      { "word": "neutral", "translation": "нейтральный" },
+      { "word": "interrupt", "translation": "прерывать" },
+      { "word": "essential", "translation": "необходимый, ключевой" },
+      { "word": "deliberately", "translation": "намеренно, осознанно" }
+    ],
+    "tasks": [
+      { "question": "What does the author suggest about notifications?", "options": ["They are always harmless", "They can invite us to interrupt our activity", "They improve concentration in every situation", "They should all be deleted permanently"], "correct": "They can invite us to interrupt our activity" },
+      { "question": "What is the main aim of a personal attention system?", "options": ["To reject all technology", "To make technology support personal priorities", "To answer every message instantly", "To advertise new applications"], "correct": "To make technology support personal priorities" },
+      { "question": "Why does concentration need to be actively protected?", "options": ["Several services compete for our attention", "Phones cannot display messages", "Walking makes people tired", "Advertisers avoid digital platforms"], "correct": "Several services compete for our attention" },
+      { "question": "Which action is suggested as part of an attention system?", "options": ["Enabling every notification", "Keeping distracting apps on the home screen", "Grouping messages into planned checking periods", "Replying immediately to every alert"], "correct": "Grouping messages into planned checking periods" },
+      { "question": "What may happen when someone checks messages at planned intervals?", "options": ["They may reply more thoughtfully", "They will never communicate again", "They will use more notifications", "They will lose all efficiency"], "correct": "They may reply more thoughtfully" }
+    ]
+  },
+  {
+    "id": "reading_6",
+    "title": "The Repair Cafe",
+    "level": "C1",
+    "category": "Stories",
+    "read_time": "5 min",
+    "content": "On the first Saturday of every month, a community centre fills with the sound of tools, conversation, and occasional laughter. Residents bring objects that have stopped working: a lamp with a loose wire, a jacket with a broken zip, or a radio that has remained silent for years. Volunteers with different skills examine each item and invite its owner to help with the repair.\n\nThe organisers are careful not to present the event as a free replacement service. Their purpose is to challenge the assumption that a damaged object has immediately become waste. By explaining how a mechanism works, volunteers give people the confidence to maintain their belongings and make more informed purchases in the future.\n\nNot every repair succeeds. Sometimes a part is impossible to find, or the cost of fixing an item would be unreasonable. Even then, visitors leave with a better understanding of what failed and why. The cafe has therefore become more than a workshop. It is a place where practical knowledge is exchanged and the value of patience is made visible.",
+    "vocabulary_hints": [
+      { "word": "loose wire", "translation": "ослабленный провод" },
+      { "word": "assumption", "translation": "предположение" },
+      { "word": "belongings", "translation": "личные вещи" },
+      { "word": "unreasonable", "translation": "неразумный, неоправданный" }
+    ],
+    "tasks": [
+      { "question": "What do volunteers encourage visitors to do?", "options": ["Throw away all old objects", "Help understand and repair their belongings", "Buy a new tool every month", "Work only with radios"], "correct": "Help understand and repair their belongings" },
+      { "question": "What happens when a repair is unsuccessful?", "options": ["The cafe closes immediately", "Visitors still learn what failed and why", "Volunteers replace the object for free", "The object is hidden from its owner"], "correct": "Visitors still learn what failed and why" },
+      { "question": "What kinds of objects do residents bring?", "options": ["Only brand-new computers", "Broken lamps, jackets, and radios", "Books that they want to sell", "Food that needs cooking"], "correct": "Broken lamps, jackets, and radios" },
+      { "question": "What assumption do the organisers want to challenge?", "options": ["That volunteers need training", "That every damaged object has immediately become waste", "That community centres are noisy", "That tools are expensive"], "correct": "That every damaged object has immediately become waste" },
+      { "question": "What can visitors gain by learning how a mechanism works?", "options": ["Confidence to maintain belongings", "A free replacement every month", "A guarantee that every repair succeeds", "Permission to avoid all purchases"], "correct": "Confidence to maintain belongings" }
+    ]
+  }
+]
