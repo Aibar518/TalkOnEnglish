@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "The Tale of Peter Rabbit",
+    "level": "Beginner",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=Peter+Rabbit+visited+Mr+McGregor%27s+garden+and+ran+home+for+tea.&tl=en",
+    "description": "Peter visits a dangerous garden, loses his clothes, and returns home tired.",
+    "text": "Peter Rabbit went into Mr. McGregor's garden even though his mother told him not to go. He ate lettuce, beans, and radishes. Mr. McGregor saw him and chased him with a rake. Peter lost his shoes and his blue jacket. At home, his mother gave him chamomile tea.",
+    "questions": [
+      {"question":"Where did Peter go?","options":["Mr. McGregor's garden","The market","The forest","The school"],"correct":"Mr. McGregor's garden"},
+      {"question":"What did Peter eat?","options":["Lettuce, beans, and radishes","Cake and milk","Apples and bread","Fish and rice"],"correct":"Lettuce, beans, and radishes"},
+      {"question":"Who chased Peter?","options":["Mr. McGregor","His mother","A teacher","A farmer's dog"],"correct":"Mr. McGregor"},
+      {"question":"What did Peter lose?","options":["His shoes and jacket","His hat and bag","His book and coat","His keys and scarf"],"correct":"His shoes and jacket"},
+      {"question":"What did Peter drink at home?","options":["Chamomile tea","Orange juice","Hot chocolate","Water"],"correct":"Chamomile tea"}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Scandal in Bohemia",
+    "level": "Intermediate",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=Sherlock+Holmes+tries+to+recover+a+photograph+from+Irene+Adler.&tl=en",
+    "description": "The King of Bohemia asks Holmes to recover an embarrassing photograph from Irene Adler.",
+    "text": "The King of Bohemia visited Sherlock Holmes in disguise. He feared that Irene Adler possessed an indiscreet photograph that could damage his royal marriage. Holmes disguised himself as a clergyman and staged an argument to enter her house. Irene understood his plan, escaped with the photograph, and left a letter. Holmes called her The Woman.",
+    "questions": [
+      {"question":"Who hired Holmes?","options":["The King of Bohemia","Dr. Watson","A Parisian jeweler","A newspaper editor"],"correct":"The King of Bohemia"},
+      {"question":"What did Irene possess?","options":["An indiscreet photograph","A royal crown","A secret map","A stolen necklace"],"correct":"An indiscreet photograph"},
+      {"question":"What disguise did Holmes use?","options":["A clergyman","A police officer","A driver","A doctor"],"correct":"A clergyman"},
+      {"question":"How did Irene respond?","options":["She understood the plan and escaped","She gave Holmes the photograph","She called the police","She stayed at home"],"correct":"She understood the plan and escaped"},
+      {"question":"What did Holmes call Irene afterward?","options":["The Woman","The Queen","The Contessa","The Mastermind"],"correct":"The Woman"}
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Architecture of Human Cognition and AI",
+    "level": "Advanced",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=Human+cognition+and+AI+use+different+computational+principles.&tl=en",
+    "description": "A comparison of biological cognition, artificial neural networks, and neuro-symbolic systems.",
+    "text": "Modern AI extracts patterns from enormous datasets, while biological intelligence uses different computational principles. The prefrontal cortex coordinates executive functions, including task switching and working memory. Brain plasticity supports learning from scarce input. Artificial networks can suffer catastrophic forgetting. Neuromorphic systems imitate biological synapses, while a hybrid neuro-symbolic framework could combine neural learning with algorithmic reasoning.",
+    "questions": [
+      {"question":"What does the prefrontal cortex coordinate?","options":["Executive functions","Digestion","Hearing","Muscle growth"],"correct":"Executive functions"},
+      {"question":"What allows brains to learn from scarce input?","options":["Brain plasticity","A larger dataset","A fixed algorithm","A faster processor"],"correct":"Brain plasticity"},
+      {"question":"What problem can artificial networks experience?","options":["Catastrophic forgetting","Perfect memory","Zero energy use","No pattern extraction"],"correct":"Catastrophic forgetting"},
+      {"question":"What inspires neuromorphic systems?","options":["Biological synapses","Royal institutions","Language textbooks","Financial markets"],"correct":"Biological synapses"},
+      {"question":"What framework does the text recommend?","options":["A hybrid neuro-symbolic framework","Only larger datasets","Only manual rules","No learning system"],"correct":"A hybrid neuro-symbolic framework"}
+    ]
+  },
+  {
+    "id": 4,
+    "title": "A Picnic in the Park",
+    "level": "Beginner",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=Anna+and+Leo+had+a+picnic+in+the+park+on+Saturday.&tl=en",
+    "description": "Anna and Leo prepare a simple picnic and make a new friend in the park.",
+    "text": "Anna and Leo went to the park on Saturday morning. They brought sandwiches, apples, and a bottle of water. After lunch, they played badminton near a tall tree. A small dog ran after the shuttlecock, so its owner came to apologize. The children invited the owner to sit with them, and everyone shared the last apple.",
+    "questions": [
+      {"question":"When did Anna and Leo go to the park?","options":["Saturday morning","Monday evening","Friday night","Sunday afternoon"],"correct":"Saturday morning"},
+      {"question":"What did they bring?","options":["Sandwiches, apples, and water","Pizza and coffee","Books and cake","Rice and juice"],"correct":"Sandwiches, apples, and water"},
+      {"question":"What game did they play?","options":["Badminton","Football","Tennis","Chess"],"correct":"Badminton"},
+      {"question":"What did the dog chase?","options":["The shuttlecock","An apple","A sandwich","A bicycle"],"correct":"The shuttlecock"},
+      {"question":"What did everyone share?","options":["The last apple","A book","A ball","A bottle of coffee"],"correct":"The last apple"}
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Community Garden",
+    "level": "Intermediate",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=Residents+turned+an+empty+lot+into+a+community+garden.&tl=en",
+    "description": "Neighbours transform an unused city lot into a garden that teaches cooperation and patience.",
+    "text": "An empty lot between two apartment buildings had collected rubbish for years. A group of residents proposed turning it into a community garden. They removed the waste, built wooden beds, and planted vegetables. The first harvest was small because the soil needed care. By autumn, however, neighbours were sharing tomatoes and teaching children how food grows.",
+    "questions": [
+      {"question":"What had collected in the empty lot?","options":["Rubbish","Books","Rainwater","Cars"],"correct":"Rubbish"},
+      {"question":"What did residents build?","options":["Wooden planting beds","A sports hall","A library","A road"],"correct":"Wooden planting beds"},
+      {"question":"Why was the first harvest small?","options":["The soil needed care","Nobody planted seeds","The garden was indoors","The residents moved away"],"correct":"The soil needed care"},
+      {"question":"What did neighbours share by autumn?","options":["Tomatoes","Bicycles","Books","Tools from a shop"],"correct":"Tomatoes"},
+      {"question":"What did children learn?","options":["How food grows","How to build apartments","How to drive","How to clean windows"],"correct":"How food grows"}
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Why Cities Need Quiet Places",
+    "level": "Advanced",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=Quiet+urban+spaces+support+attention+and+wellbeing.&tl=en",
+    "description": "An exploration of how quiet public spaces can support attention, health, and civic life.",
+    "text": "Urban life offers opportunity, but constant noise can place a hidden burden on attention. Quiet public spaces, from small courtyards to protected parks, give residents a chance to recover from stimulation. Their value is not merely aesthetic. Such places can support reflection, conversation, and inclusive access to the city. Planning them requires balancing transport, commerce, and the need for restorative environments.",
+    "questions": [
+      {"question":"What hidden burden can constant noise place on people?","options":["A burden on attention","A lack of transport","A shortage of food","A loss of internet access"],"correct":"A burden on attention"},
+      {"question":"What do quiet public spaces help residents do?","options":["Recover from stimulation","Avoid every conversation","Build taller buildings","Increase traffic"],"correct":"Recover from stimulation"},
+      {"question":"Why are quiet spaces valuable beyond aesthetics?","options":["They support reflection and conversation","They eliminate all urban problems","They replace public transport","They increase noise"],"correct":"They support reflection and conversation"},
+      {"question":"What kind of access can these spaces support?","options":["Inclusive access to the city","Private access for businesses only","Access only at night","Access to remote countries"],"correct":"Inclusive access to the city"},
+      {"question":"What must city planning balance?","options":["Transport, commerce, and restorative environments","Only parks and museums","Noise and advertising only","Schools and airports only"],"correct":"Transport, commerce, and restorative environments"}
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TalkOnEnglish — Learn English</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="js/app.js" defer></script>
+  <script src="js/vocabulary.js" defer></script>
+  <script src="js/listening.js" defer></script>
+  <script src="js/grammar.js" defer></script>
+  <script src="js/reading.js" defer></script>
+  <script src="js/level_tests.js" defer></script>
+  <script src="js/ai-service.js" defer></script>
+  <script src="js/writing.js" defer></script>
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header top-header">
+      <div class="header-inner">
+        <div class="brand">
+          <span class="brand-icon">🌐</span>
+          <h1 class="brand-title">TalkOnEnglish</h1>
+        </div>
+        <div class="header-actions">
+          <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">
+            <span class="theme-icon" aria-hidden="true">🌙</span>
+            <span class="theme-label">Dark mode</span>
+          </button>
+          <button id="ai-key-button" class="ai-key-button" type="button" title="Set Gemini API Key to enable AI explanation"><span aria-hidden="true">🔑</span> AI Key <span id="ai-key-dot" class="ai-key-dot" aria-label="Gemini API key not set"></span></button>
+          <div class="user-profile-badge">
+            <span class="profile-avatar" aria-hidden="true">G</span>
+            <div class="profile-copy">
+              <span class="user-greeting">Welcome, dear guest!</span>
+              <span class="profile-status">Ready to learn</span>
+            </div>
+            <button id="profile-button" class="profile-button" type="button">Sign In / Profile</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+      <!-- Main Menu (Dashboard) -->
+      <section id="dashboard" class="dashboard-section">
+        <div class="dashboard-header">
+          <div>
+            <p class="dashboard-kicker">Your learning command centre</p>
+            <h2 class="dashboard-title">Keep your English moving</h2>
+            <p class="dashboard-subtitle">Choose an activity below and make a little progress today.</p>
+          </div>
+          <div class="dashboard-streak"><span>✦</span> <strong id="dashboard-streak-value">0 day</strong> learning streak</div>
+        </div>
+
+        <section class="analytics-panel" aria-labelledby="analytics-title">
+          <div class="analytics-heading">
+            <div>
+              <p class="dashboard-kicker">Learning Analytics</p>
+              <h3 id="analytics-title">Progress at a glance</h3>
+            </div>
+            <span class="analytics-updated" id="analytics-updated">Updated today</span>
+          </div>
+          <div class="analytics-grid">
+            <article class="activity-card">
+              <div class="analytics-card-heading"><h4>Last 5 Active Days Progress</h4><span class="activity-count" id="activity-count">0 / 5</span></div>
+              <div id="activity-chart" class="activity-chart" aria-label="Progress over the last five active days"></div>
+            </article>
+            <article class="overview-card">
+              <div class="analytics-card-heading"><h4>All-Time Overview</h4><span class="overview-spark">↗</span></div>
+              <div class="overview-stats">
+                <div class="overview-stat stat-tests">
+                  <span class="stat-icon" aria-hidden="true">T</span>
+                  <strong id="tests-completed">0</strong>
+                  <span>Tests completed</span>
+                </div>
+                <div class="overview-stat stat-accuracy">
+                  <span class="stat-icon" aria-hidden="true">%</span>
+                  <div id="accuracy-ring" class="accuracy-ring" style="--accuracy: 0">
+                    <strong id="accuracy-rate">0%</strong>
+                  </div>
+                  <span>Accuracy rate</span>
+                </div>
+                <div class="overview-stat stat-topics">
+                  <span class="stat-icon" aria-hidden="true">C</span>
+                  <strong id="topics-completed">0</strong>
+                  <span>Topics completed</span>
+                </div>
+                <div class="overview-stat stat-stories">
+                  <span class="stat-icon" aria-hidden="true">R</span>
+                  <strong id="stories-read">0</strong>
+                  <span>Stories read</span>
+                </div>
+              </div>
+              <button id="report-button" class="report-button" type="button">View Full Report <span aria-hidden="true">→</span></button>
+            </article>
+          </div>
+        </section>
+
+        <div class="cards-grid dashboard-grid">
+          <!-- 1. Vocabulary -->
+          <button class="menu-card" data-module="vocabulary" type="button">
+            <div class="card-icon-box icon-vocab">
+              <span class="card-icon">📚</span>
+            </div>
+            <div class="card-body">
+              <h3 class="card-title">Vocabulary</h3>
+              <p class="card-description">Learn new words, flashcards, and expand your active vocabulary</p>
+              <div class="card-progress-meta"><span>Test score</span><strong id="vocabulary-progress-label">Score: 0 / 45 (Not started)</strong></div><div class="card-progress"><span id="vocabulary-progress-bar" style="width: 0%"></span></div>
+            </div>
+            <div class="card-arrow" aria-hidden="true">→</div>
+          </button>
+
+          <!-- 2. Listening -->
+          <button class="menu-card" data-module="listening" type="button">
+            <div class="card-icon-box icon-listening">
+              <span class="card-icon">🎧</span>
+            </div>
+            <div class="card-body">
+              <h3 class="card-title">Listening</h3>
+              <p class="card-description">Listen to audiobooks and dialogues to sharpen your comprehension</p>
+              <div class="card-progress-meta"><span>Comprehension score</span><strong id="listening-progress-label">Score: 0 / 0 (Not started)</strong></div><div class="card-progress"><span id="listening-progress-bar" style="width: 0%"></span></div>
+            </div>
+            <div class="card-arrow" aria-hidden="true">→</div>
+          </button>
+
+          <!-- 3. Writing -->
+          <button class="menu-card" data-module="writing" type="button">
+            <div class="card-icon-box icon-writing">
+              <span class="card-icon">✍️</span>
+            </div>
+            <div class="card-body">
+              <h3 class="card-title">Writing</h3>
+              <p class="card-description">Practice grammar rules, sentence building, and written exercises</p>
+              <div class="card-progress-meta"><span>Grammar mastery</span><strong id="grammar-progress-label">0 / 12 topics completed</strong></div><div class="card-progress"><span id="grammar-progress-bar" style="width: 0%"></span></div>
+            </div>
+            <div class="card-arrow" aria-hidden="true">→</div>
+          </button>
+
+          <!-- 4. Reading -->
+          <button class="menu-card" data-module="reading" type="button">
+            <div class="card-icon-box icon-reading">
+              <span class="card-icon">📖</span>
+            </div>
+            <div class="card-body">
+              <h3 class="card-title">Reading</h3>
+              <p class="card-description">Read engaging stories, understand context, and test comprehension</p>
+              <div class="card-progress-meta"><span id="reading-progress-detail">Correct answers: 0</span><strong id="reading-progress-label">0 / 6 stories completed</strong></div><div class="card-progress"><span id="reading-progress-bar" style="width: 0%"></span></div>
+            </div>
+            <div class="card-arrow" aria-hidden="true">→</div>
+          </button>
+
+          <!-- 5. A2 Level Test -->
+          <button class="menu-card" data-module="a2-test" type="button">
+            <div class="card-icon-box icon-test-a2">
+              <span class="card-icon">🎯</span>
+            </div>
+            <div class="card-body">
+              <div class="card-title-row">
+                <h3 class="card-title">A2 Level Test</h3>
+                <span class="badge badge-a2">Pre-Intermediate</span>
+              </div>
+              <p class="card-description">Check foundational grammar, basic everyday vocabulary, and phrase structure</p>
+              <div class="card-progress-meta"><span>Best score</span><strong id="a2-score-label">Best Score: Not taken yet</strong></div><div class="card-progress"><span id="a2-score-bar" style="width: 0%"></span></div>
+            </div>
+            <div class="card-arrow" aria-hidden="true">→</div>
+          </button>
+
+          <!-- 6. B2 Level Test -->
+          <button class="menu-card" data-module="b2-test" type="button">
+            <div class="card-icon-box icon-test-b2">
+              <span class="card-icon">🏆</span>
+            </div>
+            <div class="card-body">
+              <div class="card-title-row">
+                <h3 class="card-title">B2 Level Test</h3>
+                <span class="badge badge-b2">Upper-Intermediate</span>
+              </div>
+              <p class="card-description">Challenge yourself with advanced language tasks and assess your fluency</p>
+              <div class="card-progress-meta"><span>Best score</span><strong id="b2-score-label">Best Score: Not taken yet</strong></div><div class="card-progress"><span id="b2-score-bar" style="width: 0%"></span></div>
+            </div>
+            <div class="card-arrow" aria-hidden="true">→</div>
+          </button>
+        </div>
+      </section>
+
+      <div id="profile-modal" class="dashboard-modal hidden" role="dialog" aria-modal="true" aria-labelledby="profile-modal-title">
+        <div class="modal-card profile-modal-card">
+          <button class="modal-close" type="button" data-close-modal="profile-modal" aria-label="Close profile">×</button>
+          <span class="modal-icon">👋</span>
+          <h2 id="profile-modal-title">Your learning profile</h2>
+          <p>Sign in to personalize the header and keep your local progress connected to a profile on this device.</p>
+
+          <div class="auth-panel">
+            <button id="google-signin-btn" class="google-signin-btn" type="button">
+              <span class="google-mark" aria-hidden="true">G</span>
+              Sign in with Google
+            </button>
+            <div class="auth-divider"><span>or</span></div>
+            <div class="auth-tabs" role="tablist" aria-label="Account mode">
+              <button id="auth-login-tab" class="auth-tab active" type="button" data-auth-mode="login">Login</button>
+              <button id="auth-register-tab" class="auth-tab" type="button" data-auth-mode="register">Register</button>
+            </div>
+            <form id="auth-form" class="auth-form">
+              <label id="auth-name-row" class="auth-name-row hidden" for="auth-name">Name</label>
+              <input id="auth-name" class="auth-name-row hidden" type="text" autocomplete="name" placeholder="Your name">
+              <label for="auth-email">Email</label>
+              <input id="auth-email" type="email" autocomplete="email" placeholder="you@example.com" required>
+              <label for="auth-password">Password</label>
+              <input id="auth-password" type="password" autocomplete="current-password" placeholder="At least 4 characters" required>
+              <button id="auth-submit" class="modal-primary" type="submit">Login</button>
+              <p id="auth-status" class="auth-status" role="status"></p>
+            </form>
+            <div class="auth-actions">
+              <button id="guest-signin-btn" class="btn-secondary auth-secondary" type="button">Continue as guest</button>
+              <button id="signout-btn" class="btn-secondary auth-secondary hidden" type="button">Sign out</button>
+            </div>
+          </div>
+
+          <div class="ai-settings"><h3>AI Assistant Settings</h3><label for="gemini-api-key">Gemini API Key</label><input id="gemini-api-key" type="password" autocomplete="off" placeholder="Paste your API key"><button id="save-gemini-key" class="modal-primary" type="button">Save Key</button><small>Get a free key from <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noreferrer">Google AI Studio</a>.</small><p id="gemini-key-status" class="ai-key-status" role="status"></p></div>
+        </div>
+      </div>
+      <div id="analytics-modal" class="dashboard-modal hidden" role="dialog" aria-modal="true" aria-labelledby="analytics-modal-title">
+        <div class="modal-card analytics-modal-card">
+          <button class="modal-close" type="button" data-close-modal="analytics-modal" aria-label="Close analytics">×</button>
+          <p class="dashboard-kicker">Learning Analytics</p>
+          <h2 id="analytics-modal-title">Learning Analytics &amp; Progress Report</h2>
+          <div id="analytics-details" class="analytics-report-grid"></div>
+          <button class="modal-primary" type="button" data-close-modal="analytics-modal">Close</button>
+        </div>
+      </div>
+
+      <!-- Module Sections (Hidden by default) -->
+      <!-- 1. Vocabulary Section -->
+      <section id="vocabulary-section" class="module-section hidden" data-module="vocabulary">
+        <div class="section-top-bar">
+          <button class="back-to-menu-btn" type="button">
+            <span class="back-icon">←</span> Back to Menu
+          </button>
+          <h2 class="section-title">Vocabulary</h2>
+        </div>
+
+        <div class="vocab-subtabs vocab-navigation" role="tablist" aria-label="Vocabulary words and tests">
+          <button class="vocab-tab-btn active" data-tab="words_A1_A2" type="button">Words A1-A2</button>
+          <button class="vocab-tab-btn" data-tab="words_B1_B2" type="button">Words B1-B2</button>
+          <button class="vocab-tab-btn" data-tab="words_C1_C2" type="button">Words C1-C2</button>
+          <button class="vocab-tab-btn" data-tab="test_A1_A2" type="button">Test A1-A2</button>
+          <button class="vocab-tab-btn" data-tab="test_B1_B2" type="button">Test B1-B2</button>
+          <button class="vocab-tab-btn" data-tab="test_C1_C2" type="button">Test C1-C2</button>
+          <button class="vocab-tab-btn" data-tab="full_practice" type="button">Full Practice Test</button>
+        </div>
+
+        <!-- Words Cards Container -->
+        <div id="vocab-cards-grid" class="vocab-cards-grid"></div>
+
+        <!-- Interactive Tasks Container -->
+        <div id="vocab-tasks-container" class="vocab-tasks-container hidden"></div>
+      </section>
+
+      <!-- 2. Listening Section -->
+      <section id="listening-section" class="module-section hidden" data-module="listening">
+        <div class="section-top-bar">
+          <button class="back-to-menu-btn" type="button">
+            <span class="back-icon">←</span> Back to Menu
+          </button>
+          <h2 class="section-title">Listening</h2>
+        </div>
+
+        <!-- Audiobooks Cards Grid -->
+        <div id="audiobooks-grid" class="audiobooks-grid"></div>
+
+        <!-- Listening Test Container -->
+        <div id="listening-test-container" class="listening-test-container hidden"></div>
+      </section>
+
+      <!-- 3. Writing Section -->
+      <section id="writing-section" class="module-section hidden" data-module="writing">
+        <div class="section-top-bar">
+          <button class="back-to-menu-btn" type="button">
+            <span class="back-icon">←</span> Back to Menu
+          </button>
+          <h2 class="section-title">Writing & Grammar</h2>
+        </div>
+
+        <div class="grammar-layout">
+          <!-- Sidebar: Topic list -->
+          <aside class="grammar-sidebar">
+            <h3 class="sidebar-title">Grammar Topics</h3>
+            <div id="grammar-topics-list" class="grammar-topics-list">
+              <!-- JS will populate this -->
+            </div>
+          </aside>
+
+          <!-- Content: Theory and Practice -->
+          <div class="grammar-content">
+            <!-- Theory Display -->
+            <div id="grammar-theory-box" class="grammar-theory-box">
+              <div class="empty-state">
+                <span class="empty-icon">📘</span>
+                <p>Select a grammar topic from the list to start learning.</p>
+              </div>
+            </div>
+
+            <!-- Practice Test Container -->
+            <div id="grammar-practice-container" class="grammar-practice-container hidden">
+              <!-- JS will populate questions here -->
+            </div>
+          </div>
+        </div>
+
+        <section class="writing-assistant" aria-labelledby="writing-assistant-title">
+          <div class="writing-assistant-heading">
+            <div>
+              <p class="dashboard-kicker">Writing Coach</p>
+              <h3 id="writing-assistant-title">AI Writing Assistant</h3>
+              <p>Get a concise CEFR estimate, corrections, and a more natural version of your English.</p>
+            </div>
+            <span class="writing-assistant-icon" aria-hidden="true">✨</span>
+          </div>
+          <textarea id="writing-text-input" class="writing-text-input" rows="9" placeholder="Write your text or essay here in English..."></textarea>
+          <div class="writing-assistant-actions"><span id="writing-character-count">0 characters</span><button id="analyze-writing-btn" class="modal-primary" type="button">✨ Check &amp; Analyze Text</button></div>
+          <div id="writing-analysis-result" class="writing-analysis-result hidden" aria-live="polite"></div>
+        </section>
+      </section>
+
+      <!-- 4. Reading Section -->
+      <section id="reading-section" class="module-section hidden" data-module="reading">
+        <div class="section-top-bar">
+          <button class="back-to-menu-btn" type="button">
+            <span class="back-icon">←</span> Back to Menu
+          </button>
+          <h2 class="section-title">Reading</h2>
+        </div>
+
+        <div id="reading-library-view">
+          <div class="reading-toolbar">
+            <div>
+              <p class="reading-eyebrow">Build your comprehension</p>
+              <h3 class="reading-heading">Choose a story to explore</h3>
+            </div>
+            <div class="reading-filters" role="group" aria-label="Filter stories by level">
+              <button class="reading-filter-btn active" type="button" data-reading-level="all">All</button>
+              <button class="reading-filter-btn" type="button" data-reading-level="A2">A2</button>
+              <button class="reading-filter-btn" type="button" data-reading-level="B2">B2</button>
+              <button class="reading-filter-btn" type="button" data-reading-level="C1">C1</button>
+            </div>
+          </div>
+          <div id="reading-grid" class="reading-grid"></div>
+        </div>
+
+        <div id="reading-view" class="reading-view hidden"></div>
+        <div id="reading-quiz" class="reading-quiz hidden"></div>
+      </section>
+
+      <!-- 5. A2 Test Section -->
+      <section id="a2-test-section" class="module-section hidden" data-module="a2-test">
+        <div class="section-top-bar">
+          <button class="back-to-menu-btn" type="button">
+            <span class="back-icon">←</span> Back to Menu
+          </button>
+          <h2 class="section-title">A2 Level Test</h2>
+        </div>
+        <div id="a2-test-container" class="level-test-container"></div>
+      </section>
+
+      <!-- 6. B2 Test Section -->
+      <section id="b2-test-section" class="module-section hidden" data-module="b2-test">
+        <div class="section-top-bar">
+          <button class="back-to-menu-btn" type="button">
+            <span class="back-icon">←</span> Back to Menu
+          </button>
+          <h2 class="section-title">B2 Level Test</h2>
+        </div>
+        <div id="b2-test-container" class="level-test-container"></div>
+      </section>
+    </main>
+    <button id="ai-tutor-toggle" class="ai-tutor-toggle" type="button" aria-label="Open AI Tutor Assistant" aria-expanded="false">🤖</button>
+    <section id="ai-tutor-widget" class="ai-tutor-widget hidden" aria-label="AI Tutor Assistant">
+      <div class="ai-tutor-header"><h2>🤖 AI Tutor Assistant</h2><button id="ai-tutor-close" type="button" aria-label="Close AI Tutor">×</button></div>
+      <div id="ai-tutor-messages" class="ai-tutor-messages" aria-live="polite"><div class="ai-chat-message ai-chat-bot">Ask me about grammar, vocabulary, idioms, or English practice.</div></div>
+      <form id="ai-tutor-form" class="ai-tutor-form"><input id="ai-tutor-input" type="text" placeholder="Ask your English question..." autocomplete="off"><button type="submit">Send</button></form>
+    </section>
+  </div>
+</body>
+</html>

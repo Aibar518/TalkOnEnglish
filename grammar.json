@@ -1,0 +1,829 @@
+{
+  "topics": [
+    {
+      "id": "tenses",
+      "icon": "⏱️",
+      "title": "12 English Tenses",
+      "explanation": "English has 12 tenses: three time frames (Present, Past, Future) multiplied by four aspects (Simple, Continuous, Perfect, Perfect Continuous). Simple = a fact or habit, Continuous = a process in progress, Perfect = a finished action with a result, Perfect Continuous = how long a process has been (or will have been) going.",
+      "cards": [
+        {
+          "title": "1. Present Simple",
+          "formula": "Subject + V / V-s (he, she, it)",
+          "bro_explanation": "Это твой режим дня. Всё, что ты делаешь регулярно, по расписанию или вообще всегда — это Present Simple. Ты не «делаешь это прямо сейчас», ты делаешь это постоянно. Как расписание в телефоне: будильник в 7, зал по вторникам, кофе каждое утро. Скучно, но стабильно — и именно эту стабильность Present Simple обожает.",
+          "common_mistake": "НЕ ГОВОРИ: 'He go to the gym'. Забыл букву 's' в третьем лице — и всё, звучишь как сломанный робот. Правило простое: he / she / it → глаголу подкидываем 's' (he goes, she works, it rains).",
+          "examples": [
+            { "en": "I usually work at 9:00.", "ru": "Я обычно работаю в 9:00." },
+            { "en": "She goes to the gym every morning.", "ru": "Она ходит в зал каждое утро." },
+            { "en": "Water boils at 100 degrees Celsius.", "ru": "Вода кипит при 100 градусах." }
+          ]
+        },
+        {
+          "title": "2. Present Continuous",
+          "formula": "am / is / are + Verb-ing",
+          "bro_explanation": "Представь, что ты ведёшь стрим или крутишь кружочек в Телеге прямо сейчас. Всё, что происходит в эту самую секунду — это и есть Present Continuous. Ты не вообще учишься, ты прямо сейчас сидишь и ботаешь английский! Подсказки-маркеры: now, right now, at the moment, Look!, Listen!",
+          "common_mistake": "НЕ ГОВОРИ: 'I am knowing English'. Звучит так, будто ты «знаешь английский ровно в эту секунду, а через минуту забудешь». С состояниями и мозгами (know, like, love, want, believe, understand) '-ing' не дружит — они вечные!",
+          "examples": [
+            { "en": "I am studying English right now.", "ru": "Я учу английский прямо сейчас." },
+            { "en": "Look! The birds are singing.", "ru": "Смотри! Птицы поют." },
+            { "en": "She is working from home this week.", "ru": "На этой неделе она работает из дома." }
+          ]
+        },
+        {
+          "title": "3. Present Perfect",
+          "formula": "have / has + V3 (Past Participle)",
+          "bro_explanation": "Present Perfect — это мост между прошлым и настоящим. Действие случилось когда-то, но результат стоит у тебя перед носом прямо сейчас. Ты «сломал телефон» — и вот, сидишь без связи. Вот это и есть Present Perfect. Идеально работает для жизненного опыта: 'I have seen this movie three times'.",
+          "common_mistake": "НЕ ГОВОРИ: 'I have finished my homework yesterday'. 'Yesterday' — это чёткая точка в прошлом, а значит только Past Simple: 'I finished my homework yesterday'. Приметы Present Perfect: already, yet, just, ever, never, for, since.",
+          "examples": [
+            { "en": "I have already finished my homework.", "ru": "Я уже сделал домашнюю работу." },
+            { "en": "We have seen this movie three times.", "ru": "Мы смотрели этот фильм три раза." },
+            { "en": "She has lived in Paris for five years.", "ru": "Она живёт в Париже уже пять лет." }
+          ]
+        },
+        {
+          "title": "4. Present Perfect Continuous",
+          "formula": "have / has + been + Verb-ing",
+          "bro_explanation": "Это про «начал раньше — и всё ещё продолжается». Ты учишь английский уже два часа и ещё не закончил — вот сюда. Главный акцент не на результате, а на самом процессе и его длительности. Маркеры прямо кричат: for (в течение), since (с какого-то момента), how long, all day.",
+          "common_mistake": "НЕ ГОВОРИ: 'I am studying English for two hours'. «Прямо сейчас» тут не при чём — важно, что процесс идёт уже два часа. Правильно: 'I have been studying English for two hours'. Есть 'for' + длительность → Present Perfect Continuous.",
+          "examples": [
+            { "en": "I have been learning English for two years.", "ru": "Я учу английский уже два года." },
+            { "en": "She has been working here since 2020.", "ru": "Она работает здесь с 2020 года." },
+            { "en": "It has been raining all morning.", "ru": "Дождь идёт всё утро." }
+          ]
+        },
+        {
+          "title": "5. Past Simple",
+          "formula": "Subject + V2 (regular: Verb-ed)",
+          "bro_explanation": "Просто взял и сделал. Вчера, в прошлом году, в 2010 — есть чёткая точка на линии времени, и действие в ней закрыто. «Я сходил в зал» — это факт из прошлого, точка. Не «ходил всю жизнь», не «и сейчас иду» — просто точка. Маркеры-маячки: yesterday, last week, in 1995, two days ago.",
+          "common_mistake": "НЕ ГОВОРИ: 'Did you went to the party?'. Когда уже есть вспомогательный 'did', глагол возвращается в базовую форму: 'Did you go?'. 'did' уже взял прошлое на себя — второй раз не надо.",
+          "examples": [
+            { "en": "I watched a great movie yesterday.", "ru": "Вчера я посмотрел классный фильм." },
+            { "en": "They went to London last summer.", "ru": "Прошлым летом они ездили в Лондон." },
+            { "en": "She called me two hours ago.", "ru": "Она позвонила мне два часа назад." }
+          ]
+        },
+        {
+          "title": "6. Past Continuous",
+          "formula": "was / were + Verb-ing",
+          "bro_explanation": "Ты находился в процессе в конкретный момент прошлого. Классика жанра — когда что-то длилось, а потом его прервали: «Я смотрел телек, когда зазвонил телефон». Длинное действие — Past Continuous, прерывающее короткое — Past Simple. Маркеры: while, when, at 5 pm yesterday.",
+          "common_mistake": "НЕ ГОВОРИ: 'I was watch TV when he called'. После was / were обязательно '-ing': 'I was watching TV'. Одно без другого не живёт — это одна конструкция.",
+          "examples": [
+            { "en": "I was watching TV when the phone rang.", "ru": "Я смотрел телевизор, когда зазвонил телефон." },
+            { "en": "They were playing football at 5 pm.", "ru": "В 5 вечера они играли в футбол." },
+            { "en": "While she was cooking, I was cleaning.", "ru": "Пока она готовила, я убирался." }
+          ]
+        },
+        {
+          "title": "7. Past Perfect",
+          "formula": "had + V3",
+          "bro_explanation": "Прошлое внутри прошлого. Сначала случилось одно, потом второе — и то, что было РАНЬШЕ, забирает 'had + V3'. «Когда я пришёл на вокзал, поезд уже ушёл» — поезд ушёл первым, значит 'The train had left'. Маркеры: by the time, already, before, after.",
+          "common_mistake": "НЕ ГОВОРИ: 'When I arrived, the train already left'. Тут два прошлых, и надо показать, какое было первым: 'the train had already left'. Без 'had' непонятно, что случилось раньше — а в этом весь смысл.",
+          "examples": [
+            { "en": "The train had left before I arrived.", "ru": "Поезд ушёл до того, как я приехал." },
+            { "en": "She had finished her work by 6 pm.", "ru": "Она закончила работу к 6 вечера." },
+            { "en": "I had never seen the sea before that trip.", "ru": "До той поездки я никогда не видел моря." }
+          ]
+        },
+        {
+          "title": "8. Past Perfect Continuous",
+          "formula": "had + been + Verb-ing",
+          "bro_explanation": "Длительный процесс, который шёл какое-то время и завершился к моменту в прошлом. «Я ждал автобус 40 минут, прежде чем он приехал» — процесс тянулся, потом кончился. Подчёркиваешь именно длительность до какого-то прошлого события. Маркер: for + время, before, when.",
+          "common_mistake": "НЕ ГОВОРИ: 'I had been waited for an hour'. После 'had been' всегда '-ing': 'had been waiting'. 'been' — это форма to be, а после неё нужен именно -ing.",
+          "examples": [
+            { "en": "I had been waiting for an hour when the bus finally came.", "ru": "Я ждал уже час, когда автобус наконец приехал." },
+            { "en": "She had been studying for three hours before the exam.", "ru": "Перед экзаменом она готовилась три часа." },
+            { "en": "They had been living there for years before they moved.", "ru": "Они жили там много лет, прежде чем переехали." }
+          ]
+        },
+        {
+          "title": "9. Future Simple",
+          "formula": "will + Verb (base form)",
+          "bro_explanation": "Will — твой универсальный прогноз и решение на ходу. «Я тебе помогу», «завтра будет дождь», «я позвоню» — всё сюда. Это не «я запланировал и оформил», это просто «будет вот так». Маркеры: tomorrow, next week, soon, I think, probably.",
+          "common_mistake": "НЕ ГОВОРИ: 'I will to help you'. После will глагол стоит голышом, без 'to': 'I will help you'. 'will' и 'to' вместе не ходят.",
+          "examples": [
+            { "en": "I will call you tomorrow.", "ru": "Я позвоню тебе завтра." },
+            { "en": "It will probably rain tonight.", "ru": "Сегодня вечером, скорее всего, будет дождь." },
+            { "en": "Don't worry, I will help you.", "ru": "Не волнуйся, я тебе помогу." }
+          ]
+        },
+        {
+          "title": "10. Future Continuous",
+          "formula": "will be + Verb-ing",
+          "bro_explanation": "Действие будет в процессе в конкретный момент будущего. «Завтра в 8 я буду лететь в самолёте» — ты не просто «полетишь», ты в этот момент будешь в процессе. Ещё идеально для вежливых вопросов о планах: 'Will you be using the car tonight?'",
+          "common_mistake": "НЕ ГОВОРИ: 'I will flying tomorrow'. Забыл 'be': конструкция всегда 'will be + -ing': 'I will be flying tomorrow'.",
+          "examples": [
+            { "en": "This time tomorrow I will be flying to Paris.", "ru": "Завтра в это время я буду лететь в Париж." },
+            { "en": "At 9 pm I will be having dinner.", "ru": "В 9 вечера я буду ужинать." },
+            { "en": "Will you be using the car tonight?", "ru": "Ты будешь пользоваться машиной сегодня вечером?" }
+          ]
+        },
+        {
+          "title": "11. Future Perfect",
+          "formula": "will have + V3",
+          "bro_explanation": "Действие завершится ДО определённого момента в будущем. «К 2030 году я закончу университет» — есть дедлайн, и к нему всё уже сделано. Маркер почти всегда 'by': by 10 pm, by next year, by the time you arrive.",
+          "common_mistake": "НЕ ГОВОРИ: 'By next month I will finish the project'. Если есть дедлайн 'by', нужен Future Perfect: 'I will have finished the project'. Иначе ты говоришь «когда-нибудь закончу», а не «успею к сроку».",
+          "examples": [
+            { "en": "By 10 pm I will have finished my report.", "ru": "К 10 вечера я закончу отчёт." },
+            { "en": "She will have left by the time you arrive.", "ru": "Она уже уедет к тому времени, как ты приедешь." },
+            { "en": "By 2030 I will have visited ten countries.", "ru": "К 2030 году я посещу десять стран." }
+          ]
+        },
+        {
+          "title": "12. Future Perfect Continuous",
+          "formula": "will have been + Verb-ing",
+          "bro_explanation": "Самый длинный монстр в семействе — но пугаться нечего. Он подчёркивает, СКОЛЬКО процесс будет длиться к моменту в будущем. «К следующему июню я буду учить английский уже два года». В живой речи встречается редко, но на тестах любит показываться.",
+          "common_mistake": "НЕ ГОВОРИ: 'By June I will study English for two years'. Если сказал 'for two years' про будущий дедлайн — это Future Perfect Continuous: 'I will have been studying English for two years'.",
+          "examples": [
+            { "en": "By next June I will have been studying English for two years.", "ru": "К следующему июню я буду учить английский уже два года." },
+            { "en": "By 5 pm she will have been working for eight hours.", "ru": "К 5 вечера она будет работать уже восемь часов." },
+            { "en": "Next month they will have been living here for a decade.", "ru": "В следующем месяце будет десять лет, как они тут живут." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "She ___ to the gym every morning.", "options": ["goes", "go", "is going", "gone"], "correct": "goes" },
+        { "question": "Listen! The birds ___.", "options": ["are singing", "sing", "sings", "sang"], "correct": "are singing" },
+        { "question": "I ___ my homework yet.", "options": ["haven't finished", "didn't finish", "don't finish", "not finished"], "correct": "haven't finished" },
+        { "question": "They ___ to London last summer.", "options": ["went", "go", "have gone", "were going"], "correct": "went" },
+        { "question": "By 10 PM tonight, I ___ my report.", "options": ["will have finished", "will finish", "finished", "finish"], "correct": "will have finished" },
+        { "question": "He ___ TV when the phone rang.", "options": ["was watching", "watched", "is watching", "watches"], "correct": "was watching" },
+        { "question": "Water ___ at 100 degrees Celsius.", "options": ["boils", "boil", "is boiling", "boiled"], "correct": "boils" },
+        { "question": "We ___ this movie three times already.", "options": ["have seen", "saw", "see", "are seeing"], "correct": "have seen" },
+        { "question": "Next month, she ___ 25 years old.", "options": ["will be", "is", "is going to be", "be"], "correct": "will be" },
+        { "question": "How long ___ English?", "options": ["have you been learning", "do you learn", "are you learning", "did you learn"], "correct": "have you been learning" },
+        { "question": "I ___ a big breakfast today.", "options": ["didn't have", "haven't", "don't have", "hadn't"], "correct": "didn't have" },
+        { "question": "The train ___ at 8:00 AM every day.", "options": ["leaves", "is leaving", "leave", "left"], "correct": "leaves" },
+        { "question": "Look! The sun ___.", "options": ["is rising", "rises", "rose", "has risen"], "correct": "is rising" },
+        { "question": "She ___ in Paris for five years now.", "options": ["has lived", "lives", "lived", "is living"], "correct": "has lived" },
+        { "question": "I ___ you as soon as I arrive.", "options": ["will call", "call", "am calling", "called"], "correct": "will call" },
+        { "question": "I ___ for two hours when he finally arrived.", "options": ["had been waiting", "was waiting", "have waited", "waited"], "correct": "had been waiting" },
+        { "question": "By this time next year, I ___ my degree.", "options": ["will have finished", "will finish", "finish", "have finished"], "correct": "will have finished" },
+        { "question": "She ___ English since 2019.", "options": ["has been studying", "studies", "studied", "is studying"], "correct": "has been studying" },
+        { "question": "This time tomorrow, we ___ to Paris.", "options": ["will be flying", "will fly", "fly", "have flown"], "correct": "will be flying" },
+        { "question": "The train ___ before we got to the station.", "options": ["had left", "left", "has left", "was leaving"], "correct": "had left" },
+        { "question": "While I ___ dinner, the lights went out.", "options": ["was cooking", "cooked", "cook", "have cooked"], "correct": "was cooking" },
+        { "question": "By 2030, they ___ here for twenty years.", "options": ["will have been living", "will live", "live", "have lived"], "correct": "will have been living" }
+      ]
+    },
+{
+      "id": "to-be",
+      "icon": "⚡",
+      "title": "To Be & Basic Verbs",
+      "explanation": "The verb \"To Be\" is the foundation of English. It describes identity, state, and location. Action verbs describe what people do. To Be has its own negatives, questions, and the special \"there is / there are\" pattern.",
+      "cards": [
+        {
+          "title": "Am / Is / Are",
+          "formula": "Subject + am / is / are + Adjective/Noun",
+          "bro_explanation": "To Be — это знак «равно» в английском. «I = a student» превращается в «I am a student». Никакого «I be» или «I am be» — только am / is / are. Схема запоминается моментально: I → am, He/She/It → is, We/You/They → are. А вопрос делается простым переворотом: «Are you ready?».",
+          "common_mistake": "НЕ ГОВОРИ: 'I am agree with you'. Ты не «являешься согласным» — согласие это действие, а не состояние. Правильно: 'I agree with you'.",
+          "examples": [
+            { "en": "I am a student.", "ru": "Я студент." },
+            { "en": "She is at home now.", "ru": "Она сейчас дома." },
+            { "en": "Are you ready?", "ru": "Ты готов?" }
+          ]
+        },
+        {
+          "title": "To Be in the Past: Was / Were",
+          "formula": "Subject + was / were",
+          "bro_explanation": "Вчерашняя версия знака «равно» — это was и were. I / He / She / It → was, We / You / They → were. «I was at school yesterday», «They were happy». Одна форма для одного, другая для компании — как размер обуви.",
+          "common_mistake": "НЕ ГОВОРИ: 'We was at the party'. Для we / you / they всегда только 'were'. 'was' — это строго про одного, 'were' — про всех остальных.",
+          "examples": [
+            { "en": "They were at home last night.", "ru": "Вчера вечером они были дома." },
+            { "en": "It was a sunny day.", "ru": "Был солнечный день." },
+            { "en": "I was tired after work.", "ru": "Я устал после работы." }
+          ]
+        },
+        {
+          "title": "Negatives & Questions with To Be",
+          "formula": "Subject + am/is/are + not  |  Am/Is/Are + Subject ...?",
+          "bro_explanation": "To Be — самый послушный глагол: для отрицания просто приклеиваешь 'not' (I am not, she isn't), а для вопроса — переворачиваешь его вперёд (Are you...? Is she...?). Никаких 'do' и 'does' ему не нужно — он сам справляется. В речи всё сокращается: I'm not, isn't, aren't, wasn't, weren't.",
+          "common_mistake": "НЕ ГОВОРИ: 'You not are ready' или 'Do you are ready?'. 'not' идёт ПОСЛЕ to be, а вопрос строится переворотом, без 'do': 'You are not ready', 'Are you ready?'.",
+          "examples": [
+            { "en": "I am not tired.", "ru": "Я не устал." },
+            { "en": "Is she at home?", "ru": "Она дома?" },
+            { "en": "They aren't ready yet.", "ru": "Они ещё не готовы." }
+          ]
+        },
+        {
+          "title": "There is / There are",
+          "formula": "There is + singular | There are + plural",
+          "bro_explanation": "Когда говоришь «есть / имеется», по-английски не «It has», а 'There is / There are'. Это не про владельца, а про наличие: «на столе есть книга» — 'There is a book on the table'. Одна штука — is, много — are. Оборот один, а работает в любом времени: there was, there will be.",
+          "common_mistake": "НЕ ГОВОРИ: 'It has a book on the table' — так ты заявляешь, что у стола есть книга. Тебе нужно «есть/имеется», значит 'There is a book on the table'. Смотри на то, что следует СРАЗУ после оборота: одна вещь → is, несколько → are.",
+          "examples": [
+            { "en": "There is a book on the table.", "ru": "На столе есть книга." },
+            { "en": "There are three apples in the fridge.", "ru": "В холодильнике три яблока." },
+            { "en": "Is there any milk left?", "ru": "Молоко ещё осталось?" }
+          ]
+        },
+        {
+          "title": "Action Verbs: Do / Have / Go",
+          "formula": "Subject + V (he / she / it + V-s)",
+          "bro_explanation": "Если To Be — это «быть», то do / have / go — это «делать». Ты не просто «являешься» человеком, ты ещё работаешь, ходишь и имеешь. Со всеми, кроме he / she / it, глагол идёт как есть, а для he / she / it мы добавляем ту самую «s».",
+          "common_mistake": "НЕ ГОВОРИ: 'My brother have a car'. У he / she / it — только has. 'He has', 'She has', 'It has'. Чувствуешь ту же «s» третьего лица? В слове has она спряталась.",
+          "examples": [
+            { "en": "He works in a big office.", "ru": "Он работает в большом офисе." },
+            { "en": "She has a new car.", "ru": "У неё новая машина." },
+            { "en": "I go to the park on Sundays.", "ru": "По воскресеньям я хожу в парк." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "My brother ___ a very talented musician.", "options": ["is", "am", "are", "be"], "correct": "is" },
+        { "question": "Where ___ the keys I left on the table?", "options": ["are", "is", "am", "be"], "correct": "are" },
+        { "question": "I ___ not interested in football.", "options": ["am", "is", "are", "be"], "correct": "am" },
+        { "question": "They ___ at home last night.", "options": ["were", "was", "are", "been"], "correct": "were" },
+        { "question": "She ___ (have) a new car.", "options": ["has", "have", "haves", "is have"], "correct": "has" },
+        { "question": "We ___ (do) our exercise every morning.", "options": ["do", "does", "doing", "did"], "correct": "do" },
+        { "question": "___ you ready to order?", "options": ["Are", "Is", "Do", "Am"], "correct": "Are" },
+        { "question": "It ___ a sunny day today.", "options": ["is", "are", "am", "be"], "correct": "is" },
+        { "question": "Who ___ those people over there?", "options": ["are", "is", "am", "be"], "correct": "are" },
+        { "question": "I ___ (go) to the park on Sundays.", "options": ["go", "goes", "going", "gone"], "correct": "go" },
+        { "question": "My parents ___ (be) from Italy.", "options": ["are", "is", "am", "was"], "correct": "are" },
+        { "question": "That book ___ (be) very interesting.", "options": ["is", "are", "am", "be"], "correct": "is" },
+        { "question": "The children ___ (be) in the playground.", "options": ["are", "is", "am", "be"], "correct": "are" },
+        { "question": "He ___ (work) in a big office.", "options": ["works", "work", "working", "is work"], "correct": "works" },
+        { "question": "___ she a doctor?", "options": ["Is", "Are", "Does", "Do"], "correct": "Is" },
+        { "question": "There ___ a cat on the roof.", "options": ["is", "are", "be", "am"], "correct": "is" },
+        { "question": "There ___ many people at the concert.", "options": ["are", "is", "was", "be"], "correct": "are" },
+        { "question": "She ___ not my sister.", "options": ["is", "are", "am", "do"], "correct": "is" },
+        { "question": "___ they at the party last night?", "options": ["Were", "Was", "Did", "Are"], "correct": "Were" },
+        { "question": "There ___ any milk in the fridge?", "options": ["isn't", "aren't", "don't", "not"], "correct": "isn't" }
+      ]
+    },
+    {
+      "id": "modal-verbs",
+      "icon": "🔒",
+      "title": "Modal Verbs",
+      "explanation": "Modal verbs like Can, Must, Should, and Might add meaning to the main verb (ability, obligation, advice, or possibility). They never change form and are always followed by the base verb.",
+      "cards": [
+        {
+          "title": "Ability: Can / Could",
+          "formula": "can / could + Verb (base form)",
+          "bro_explanation": "Модальные глаголы — это фильтры на камере: сам глагол (картинка) не меняется, меняется только настроение кадра. Can — «я умею сейчас», could — «умел раньше» или вежливая просьба. После них глагол всегда стоит голышом: без 'to' и без 's'.",
+          "common_mistake": "НЕ ГОВОРИ: 'She cans swim' или 'I can to swim'. Модальные глаголы никогда не берут 's' и никогда не просят 'to' после себя. Правильно просто: 'She can swim'.",
+          "examples": [
+            { "en": "I can speak three languages.", "ru": "Я говорю на трёх языках." },
+            { "en": "I could swim when I was five.", "ru": "Я умел плавать в пять лет." },
+            { "en": "Could you help me, please?", "ru": "Не могли бы вы мне помочь?" }
+          ]
+        },
+        {
+          "title": "Obligation & Advice: Must / Should / Have to",
+          "formula": "must / should / have to + Verb (base form)",
+          "bro_explanation": "Must — строгий охранник: так надо, потому что правило или закон. Should — добрый друг: «тебе стоит». Have to — внешняя обязаловка: «так сложилось, надо». Запомни вайб каждого — и ты их больше не перепутаешь.",
+          "common_mistake": "НЕ ГОВОРИ: 'You must to wait'. У 'must' и 'should' нет 'to' перед глаголом! А вот у 'have to' оно как раз есть — вот главная ловушка: 'You must wait', но 'You have to wait'.",
+          "examples": [
+            { "en": "You must wait here.", "ru": "Ты должен ждать здесь." },
+            { "en": "You should eat more vegetables.", "ru": "Тебе стоит есть больше овощей." },
+            { "en": "We have to go now.", "ru": "Нам нужно идти сейчас." }
+          ]
+        },
+        {
+          "title": "Possibility: Might / May",
+          "formula": "might / may + Verb (base form)",
+          "bro_explanation": "Might и May — это про «может быть». Типа: может, дождь будет, а может, и нет — без гарантий. May звучит чуть официальнее (и годится для вежливого «можно?»), might — просто про возможный вариант.",
+          "common_mistake": "НЕ ГОВОРИ: 'It might rains tomorrow'. После might / may идёт чистый глагол, без '-s'. Правильно: 'It might rain tomorrow'.",
+          "examples": [
+            { "en": "It might rain later.", "ru": "Возможно, позже пойдёт дождь." },
+            { "en": "May I use your phone?", "ru": "Можно я воспользуюсь вашим телефоном?" },
+            { "en": "He might not be able to come.", "ru": "Возможно, он не сможет прийти." }
+          ]
+        },
+        {
+          "title": "Deduction & Polite Requests: Could / Would / Shall",
+          "formula": "could / would / shall + Verb (base form)",
+          "bro_explanation": "Could — не только «умел», но и вежливая просьба ('Could you...?'). Would — для вежливых предложений ('Would you like...?'). Shall — старомодно-вежливое предложение помощи ('Shall I open the window?'). Эти три — про тон, а не про факт: с ними ты звучишь воспитанно, а не требовательно. Ещё could / must умеют «вычислять»: 'He must be tired' — не «обязан», а «наверняка устал».",
+          "common_mistake": "НЕ ГОВОРИ: 'Would you like to have some tea?'. Вежливая формула короткая, без лишнего 'to have': 'Would you like some tea?'. И не путай вежливое 'Could you...?' с обычным 'Can you...?' — первое звучит мягче.",
+          "examples": [
+            { "en": "Could you open the door, please?", "ru": "Не могли бы вы открыть дверь?" },
+            { "en": "Would you like some coffee?", "ru": "Хотите немного кофе?" },
+            { "en": "Shall I help you with that?", "ru": "Помочь вам с этим?" }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "I ___ swim when I was five.", "options": ["could", "can", "must", "should"], "correct": "could" },
+        { "question": "You ___ smoke here; it's forbidden.", "options": ["mustn't", "shouldn't", "can't", "don't"], "correct": "mustn't" },
+        { "question": "___ I use your phone, please?", "options": ["May", "Must", "Should", "Will"], "correct": "May" },
+        { "question": "He ___ be at home; his car is in the driveway.", "options": ["must", "can", "should", "might"], "correct": "must" },
+        { "question": "You ___ see a doctor if you feel sick.", "options": ["should", "can", "might", "must"], "correct": "should" },
+        { "question": "It ___ rain later, so take an umbrella.", "options": ["might", "must", "should", "can"], "correct": "might" },
+        { "question": "I ___ speak three languages fluently.", "options": ["can", "must", "should", "might"], "correct": "can" },
+        { "question": "We ___ hurry or we'll miss the train.", "options": ["must", "can", "may", "might"], "correct": "must" },
+        { "question": "You ___ not leave your luggage unattended.", "options": ["should", "can", "may", "might"], "correct": "should" },
+        { "question": "She ___ play the piano very well.", "options": ["can", "must", "should", "might"], "correct": "can" },
+        { "question": "___ you help me with this box?", "options": ["Could", "Must", "Should", "Might"], "correct": "Could" },
+        { "question": "We ___ to go now (use semi-modal).", "options": ["have", "must", "can", "should"], "correct": "have" },
+        { "question": "You ___ wear a seatbelt while driving.", "options": ["must", "can", "might", "may"], "correct": "must" },
+        { "question": "He ___ not be able to come tonight.", "options": ["might", "must", "should", "can"], "correct": "might" },
+        { "question": "I ___ like a cup of tea, please.", "options": ["would", "should", "could", "must"], "correct": "would" }
+      ]
+    },
+    {
+      "id": "articles",
+      "icon": "🏷️",
+      "title": "Articles & Quantifiers",
+      "explanation": "Articles (A, An, The) and quantifiers (Much, Many, Some, Any) help us specify which things we are talking about and how many there are. Sometimes English uses no article at all.",
+      "cards": [
+        {
+          "title": "A / An — \"one of many\"",
+          "formula": "a + consonant SOUND | an + vowel SOUND",
+          "bro_explanation": "A / an — это когда ты достаёшь из мешка любую конфету: конкретная ещё не выбрана. 'I saw a dog' — какую-то собаку, неважно какую. И да, выбор a или an зависит от ЗВУКА, а не от буквы.",
+          "common_mistake": "НЕ ГОВОРИ: 'an university'. Слышится 'ю-ни-версити' — звук [j] согласный, значит 'a university'. А вот 'an hour' — потому что 'h' не читается и слышится гласный звук.",
+          "examples": [
+            { "en": "I saw a movie yesterday.", "ru": "Вчера я посмотрел какой-то фильм." },
+            { "en": "She is a university student.", "ru": "Она студент университета." },
+            { "en": "Wait an hour for me.", "ru": "Подожди меня час." }
+          ]
+        },
+        {
+          "title": "The — \"that exact one\"",
+          "formula": "the + specific noun",
+          "bro_explanation": "The — это когда ты показываешь пальцем: «вот эта, конкретная». Уже упоминали? Она одна в мире? Понятно из контекста? Ставим the. 'I saw a movie. The movie was great' — сначала какая-то, потом уже конкретная.",
+          "common_mistake": "НЕ ГОВОРИ: 'The France is beautiful'. Перед названиями стран артикль обычно не нужен: просто France. А вот перед 'sun', 'moon', 'capital' — the обязателен, потому что такой предмет один.",
+          "examples": [
+            { "en": "The movie was great.", "ru": "Фильм (тот самый) был классный." },
+            { "en": "The capital of France is Paris.", "ru": "Столица Франции — Париж." },
+            { "en": "The sun is shining brightly.", "ru": "Солнце ярко светит." }
+          ]
+        },
+        {
+          "title": "Zero Article — when nothing is needed",
+          "formula": "Ø + plural / uncountable nouns | Ø + most country, city, and language names",
+          "bro_explanation": "Иногда артикль — это лишний шум. Говоришь о вещах вообще (не о конкретных) — артикль не нужен: 'Dogs are loyal', 'I like music'. Страны, города, языки, большинство имён — тоже без артикля: France, London, English. Zero article — это не «забыл», это правило.",
+          "common_mistake": "НЕ ГОВОРИ: 'The dogs are loyal' — это про конкретных собак. Если говоришь о виде вообще, артикль не ставь: 'Dogs are loyal'. Сравни: 'I like the music' (конкретная музыка) и 'I like music' (музыка вообще).",
+          "examples": [
+            { "en": "Dogs are loyal animals.", "ru": "Собаки — верные животные." },
+            { "en": "I speak English and Russian.", "ru": "Я говорю по-английски и по-русски." },
+            { "en": "We visited France last year.", "ru": "В прошлом году мы были во Франции." }
+          ]
+        },
+        {
+          "title": "Quantifiers: Some / Any / Much / Many",
+          "formula": "some (+) | any (- / ?) | much (uncountable) | many (countable) | a few / a little",
+          "bro_explanation": "Some — «немножко есть», any — «а есть вообще?». Some живёт в утверждениях и вежливых просьбах, any — в вопросах и отрицаниях. Much — для того, что не считают по штукам (деньги, вода), many — для того, что можно посчитать (люди, друзья). Бонусом: a few — «немного» для считаемых, a little — «немного» для несчитаемых.",
+          "common_mistake": "НЕ ГОВОРИ: 'How many money do you have?'. В английском money — неисчисляемое, как вода. Правильно: 'How much money'. Та же история с water, time, sugar. А ещё не путай 'a few friends' (несколько друзей, считаем) с 'a little money' (немного денег, не считаем).",
+          "examples": [
+            { "en": "Can I have some water, please?", "ru": "Можно мне немного воды?" },
+            { "en": "I don't have much money left.", "ru": "У меня осталось мало денег." },
+            { "en": "There are too many people here.", "ru": "Здесь слишком много людей." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "I saw ___ elephant at the zoo.", "options": ["an", "a", "the", "no article"], "correct": "an" },
+        { "question": "___ capital of France is Paris.", "options": ["The", "A", "An", "no article"], "correct": "The" },
+        { "question": "Do you have ___ milk in the fridge?", "options": ["any", "some", "many", "a"], "correct": "any" },
+        { "question": "There are too ___ people in this room.", "options": ["many", "much", "some", "any"], "correct": "many" },
+        { "question": "I don't have ___ money left.", "options": ["much", "many", "some", "any"], "correct": "much" },
+        { "question": "Can I have ___ water, please?", "options": ["some", "any", "a", "an"], "correct": "some" },
+        { "question": "She is ___ university student.", "options": ["a", "an", "the", "no article"], "correct": "a" },
+        { "question": "He plays ___ guitar beautifully.", "options": ["the", "a", "an", "no article"], "correct": "the" },
+        { "question": "How ___ sugar do you want in your tea?", "options": ["much", "many", "some", "any"], "correct": "much" },
+        { "question": "I bought ___ new shoes yesterday.", "options": ["some", "a", "an", "any"], "correct": "some" },
+        { "question": "___ sun is shining brightly.", "options": ["The", "A", "An", "no article"], "correct": "The" },
+        { "question": "There isn't ___ bread left.", "options": ["any", "some", "much", "many"], "correct": "any" },
+        { "question": "Wait ___ hour for me.", "options": ["an", "a", "the", "no article"], "correct": "an" },
+        { "question": "I have ___ friends in London.", "options": ["a few", "a little", "much", "any"], "correct": "a few" },
+        { "question": "He has ___ interest in history.", "options": ["little", "few", "many", "any"], "correct": "little" },
+        { "question": "I speak ___ English every day.", "options": ["no article", "the", "a", "an"], "correct": "no article" },
+        { "question": "We saw ___ Eiffel Tower in Paris.", "options": ["the", "a", "an", "no article"], "correct": "the" },
+        { "question": "Dogs ___ loyal animals.", "options": ["are", "is", "was", "be"], "correct": "are" }
+      ]
+    },
+{
+      "id": "prepositions",
+      "icon": "📍",
+      "title": "Prepositions (Time/Place)",
+      "explanation": "Prepositions like In, On, and At tell us when or where something is happening. At is for points, On is for surfaces/days, and In is for areas/months. Prepositions also describe movement and many other relationships.",
+      "cards": [
+        {
+          "title": "Time: At / On / In",
+          "formula": "at + clock time | on + day/date | in + month/year/season",
+          "bro_explanation": "Представь GPS, который пришпиливает время к карте. At — точная точка (at 7:00). On — день или дата (on Monday). In — большой отрезок: месяц, год, сезон (in July, in 1995). Чем больше промежуток, тем шире предлог.",
+          "common_mistake": "НЕ ГОВОРИ: 'in Monday' или 'at July'. Держи пирамиду в голове: at → точное время, on → день, in → всё большое. Это как уровни зума на карте!",
+          "examples": [
+            { "en": "The meeting starts at 9:00 AM.", "ru": "Встреча начинается в 9:00." },
+            { "en": "I'll see you on Monday.", "ru": "Увидимся в понедельник." },
+            { "en": "My birthday is in March.", "ru": "Мой день рождения в марте." }
+          ]
+        },
+        {
+          "title": "Place: At / On / In",
+          "formula": "at + point | on + surface | in + enclosed space",
+          "bro_explanation": "At — конкретная точка на карте (at the bus stop, at the door). On — поверхность, на которой что-то лежит (on the table, on the wall). In — ты внутри чего-то объёмного (in the box, in the room, in New York).",
+          "common_mistake": "НЕ ГОВОРИ: 'I am in the bus stop'. На остановке ты в точке, а не внутри неё: 'at the bus stop'. Проверь себя: ты ВНУТРИ (in) или В ТОЧКЕ / НА ПОВЕРХНОСТИ (at / on)?",
+          "examples": [
+            { "en": "He is sitting at the bus stop.", "ru": "Он сидит на автобусной остановке." },
+            { "en": "The book is on the desk.", "ru": "Книга на столе." },
+            { "en": "The keys are in my pocket.", "ru": "Ключи в моём кармане." }
+          ]
+        },
+        {
+          "title": "Movement: To / Into / Through / Across",
+          "formula": "to + destination | into + entering | through + inside movement | across + side to side",
+          "bro_explanation": "Тут предлоги показывают траекторию. To — просто «в сторону, туда» (go to school). Into — «внутрь» (walk into the room). Through — «сквозь, через» (drive through a tunnel). Across — «поперёк, с одной стороны на другую» (walk across the street). Рисуй себе стрелку — и предлог появится сам.",
+          "common_mistake": "НЕ ГОВОРИ: 'I go in the school' о направлении. Если это движение К месту — 'to': 'I go to school'. 'In' — это уже «внутри», про нахождение, а не про путь.",
+          "examples": [
+            { "en": "We go to school every day.", "ru": "Мы ходим в школу каждый день." },
+            { "en": "She walked into the room.", "ru": "Она вошла в комнату." },
+            { "en": "They walked across the bridge.", "ru": "Они прошли через мост." }
+          ]
+        },
+        {
+          "title": "Other Key Prepositions: for / since / during / by / with / of",
+          "formula": "for + period | since + point | during + noun | by + deadline | with + tool/company | of + belonging",
+          "bro_explanation": "Мини-набор, который всплывает в каждом тесте. For — длительность (for two hours). Since — точка старта (since 2020). During — «во время» (during the movie). By — «к сроку не позже» (by Friday). With — «с помощью» или «вместе с». Of — принадлежность (the capital of France). Запомни эти шесть как алфавит.",
+          "common_mistake": "НЕ ГОВОРИ: 'I have lived here since two years'. 'Since' требует ТОЧКУ, а не длительность: 'since 2020'. Если у тебя период — 'for two years'. Проверяй себя: точка → since, отрезок → for.",
+          "examples": [
+            { "en": "I have known him for ten years.", "ru": "Я знаю его десять лет." },
+            { "en": "She has worked here since 2018.", "ru": "Она работает здесь с 2018 года." },
+            { "en": "I will finish it by Friday.", "ru": "Я закончу это к пятнице." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "My birthday is ___ March.", "options": ["in", "on", "at", "by"], "correct": "in" },
+        { "question": "I'll see you ___ Monday.", "options": ["on", "in", "at", "to"], "correct": "on" },
+        { "question": "The meeting starts ___ 9:00 AM.", "options": ["at", "in", "on", "for"], "correct": "at" },
+        { "question": "She lives ___ New York.", "options": ["in", "on", "at", "to"], "correct": "in" },
+        { "question": "The picture is ___ the wall.", "options": ["on", "in", "at", "under"], "correct": "on" },
+        { "question": "We usually go on holiday ___ summer.", "options": ["in", "on", "at", "for"], "correct": "in" },
+        { "question": "He is sitting ___ the bus stop.", "options": ["at", "in", "on", "to"], "correct": "at" },
+        { "question": "The keys are ___ my pocket.", "options": ["in", "on", "at", "under"], "correct": "in" },
+        { "question": "What are you doing ___ the weekend?", "options": ["at", "in", "on", "to"], "correct": "at" },
+        { "question": "They were born ___ 1995.", "options": ["in", "on", "at", "by"], "correct": "in" },
+        { "question": "The coffee shop is ___ the corner.", "options": ["on", "in", "at", "to"], "correct": "on" },
+        { "question": "I work ___ night sometimes.", "options": ["at", "in", "on", "for"], "correct": "at" },
+        { "question": "The book is ___ the shelf.", "options": ["on", "in", "at", "under"], "correct": "on" },
+        { "question": "Dinner is ___ the table.", "options": ["on", "in", "at", "by"], "correct": "on" },
+        { "question": "We arrived ___ the airport early.", "options": ["at", "in", "on", "to"], "correct": "at" },
+        { "question": "I have known him ___ ten years.", "options": ["for", "since", "during", "by"], "correct": "for" },
+        { "question": "She has worked here ___ 2018.", "options": ["since", "for", "during", "by"], "correct": "since" },
+        { "question": "I will finish the report ___ Friday.", "options": ["by", "until", "since", "for"], "correct": "by" },
+        { "question": "She walked ___ the room and sat down.", "options": ["into", "on", "at", "by"], "correct": "into" },
+        { "question": "They walked ___ the bridge to the other side.", "options": ["across", "in", "at", "for"], "correct": "across" }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "icon": "🎨",
+      "title": "Adjectives & Adverbs",
+      "explanation": "Adjectives describe nouns (big dog), and adverbs describe verbs, adjectives, or other adverbs (runs quickly). Both also have comparative and superlative forms, and some are irregular.",
+      "cards": [
+        {
+          "title": "Adjectives vs Adverbs",
+          "formula": "Adjective + noun | Verb + adverb (-ly)",
+          "bro_explanation": "Прилагательное красит существительное (a beautiful day), а наречие — глагол (He drives carefully). Описываешь КОГО-ТО или ЧТО-ТО → прилагательное. Описываешь КАК делается действие → наречие с '-ly'.",
+          "common_mistake": "НЕ ГОВОРИ: 'She speaks English fluent'. Ты описываешь, КАК она говорит, значит нужен '-ly': 'She speaks English fluently'. Подсказка: отвечает на «как?» — бери наречие.",
+          "examples": [
+            { "en": "It was a beautiful day.", "ru": "Был прекрасный день." },
+            { "en": "She speaks English fluently.", "ru": "Она бегло говорит по-английски." },
+            { "en": "He drives very carefully.", "ru": "Он водит очень аккуратно." }
+          ]
+        },
+        {
+          "title": "Comparatives & Superlatives",
+          "formula": "short: -er / -est | long: more / most",
+          "bro_explanation": "Сравниваешь двоих — ставь '-er' (taller). Выбираешь лучшего из всех — '-est' (the tallest). А для длинных слов буквы добавлять лень, поэтому берём more / most (more interesting, the most interesting).",
+          "common_mistake": "НЕ ГОВОРИ: 'more taller' или 'most easiest'. Ты уже использовал '-er', зачем ещё 'more'? Это как надеть две шапки. Либо 'taller', либо 'more interesting' — но не оба сразу.",
+          "examples": [
+            { "en": "He is taller than his brother.", "ru": "Он выше своего брата." },
+            { "en": "This is the most interesting book I've ever read.", "ru": "Это самая интересная книга, которую я читал." },
+            { "en": "Today is worse than yesterday.", "ru": "Сегодня хуже, чем вчера." }
+          ]
+        },
+        {
+          "title": "Irregular Comparatives & Superlatives",
+          "formula": "good → better → the best | bad → worse → the worst | far → further → the furthest",
+          "bro_explanation": "Есть слова-бунтари, которые отказываются работать по общим правилам. Good — better — the best, bad — worse — the worst, far — further — the furthest, many/much — more — the most. Их просто надо выучить наизусть — это как неправильные глаголы, только для сравнений.",
+          "common_mistake": "НЕ ГОВОРИ: 'gooder' или 'more better'. У good вообще нет 'gooder' — есть 'better'. И никогда не сдваивай: 'better' уже сравнение, 'more' тут лишний.",
+          "examples": [
+            { "en": "This coffee is better than the one at home.", "ru": "Этот кофе лучше того, что дома." },
+            { "en": "It was the worst day of my life.", "ru": "Это был худший день в моей жизни." },
+            { "en": "We walked further than we planned.", "ru": "Мы прошли дальше, чем планировали." }
+          ]
+        },
+        {
+          "title": "Adverbs of Frequency & Manner",
+          "formula": "always, usually, often, sometimes, never + Verb | Verb + -ly (manner)",
+          "bro_explanation": "Наречия частоты говорят, как часто: always, usually, often, sometimes, never. Они живут ПЕРЕД основным глаголом, но ПОСЛЕ to be: 'I always drink coffee', но 'I am always late'. Наречия образа действия (-ly) отвечают на «как?» и стоят после глагола: 'He speaks slowly'.",
+          "common_mistake": "НЕ ГОВОРИ: 'I drink always coffee' или 'She is late always'. Частота — до глагола, но после to be: 'I always drink coffee', 'She is always late'. Наречие 'always' любит приклеиваться к 'to be'.",
+          "examples": [
+            { "en": "I always drink coffee in the morning.", "ru": "Я всегда пью кофе по утрам." },
+            { "en": "She is never late for meetings.", "ru": "Она никогда не опаздывает на встречи." },
+            { "en": "He speaks very slowly and clearly.", "ru": "Он говорит очень медленно и чётко." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "He is ___ than his brother.", "options": ["taller", "tall", "tallest", "more tall"], "correct": "taller" },
+        { "question": "This is the ___ book I've ever read.", "options": ["most interesting", "more interesting", "interestingest", "interestinger"], "correct": "most interesting" },
+        { "question": "She speaks English ___.", "options": ["fluently", "fluent", "more fluent", "fluentest"], "correct": "fluently" },
+        { "question": "This car is ___ expensive than that one.", "options": ["more", "most", "as", "much"], "correct": "more" },
+        { "question": "He drives very ___.", "options": ["carefully", "careful", "more careful", "carefulest"], "correct": "carefully" },
+        { "question": "It was a ___ day.", "options": ["beautiful", "beautifully", "more beautiful", "most beautiful"], "correct": "beautiful" },
+        { "question": "She is the ___ girl in the room.", "options": ["happiest", "happier", "happy", "more happy"], "correct": "happiest" },
+        { "question": "Today is ___ than yesterday.", "options": ["worse", "bad", "badder", "worst"], "correct": "worse" },
+        { "question": "The plane flew ___ over the mountains.", "options": ["high", "highly", "higher", "highest"], "correct": "high" },
+        { "question": "This exercise is ___ than the last one.", "options": ["easier", "easy", "easiest", "more easy"], "correct": "easier" },
+        { "question": "He works ___ than anyone else.", "options": ["harder", "hard", "hardly", "more hard"], "correct": "harder" },
+        { "question": "She is ___ at math than me.", "options": ["better", "good", "best", "more good"], "correct": "better" },
+        { "question": "It is the ___ movie of the year.", "options": ["best", "good", "better", "most good"], "correct": "best" },
+        { "question": "The room is ___ enough for us.", "options": ["large", "largely", "larger", "largest"], "correct": "large" },
+        { "question": "He spoke ___ during the meeting.", "options": ["quietly", "quiet", "more quiet", "quietest"], "correct": "quietly" },
+        { "question": "I ___ drink coffee in the morning.", "options": ["always", "always am", "am always drink", "drink always"], "correct": "always" },
+        { "question": "It was the ___ day of my life.", "options": ["worst", "worse", "bad", "baddest"], "correct": "worst" },
+        { "question": "We walked ___ than we planned.", "options": ["further", "far", "farthest", "more far"], "correct": "further" }
+      ]
+    },
+    {
+      "id": "conditionals",
+      "icon": "🤝",
+      "title": "Conditionals",
+      "explanation": "Conditionals describe results of conditions. Zero = always true, First = likely future, Second = imaginary present, Third = imaginary past. Mixed conditionals combine two time frames.",
+      "cards": [
+        {
+          "title": "Zero Conditional",
+          "formula": "If + Present Simple, Present Simple",
+          "bro_explanation": "Zero — это законы физики и жизни. Одно всегда влечёт другое, без исключений: нагрел лёд — он тает. Обе части в настоящем времени, потому что это не про «когда-то», а про «всегда так». Правило, факт, инструкция — всё здесь.",
+          "common_mistake": "НЕ ГОВОРИ: 'If you heat ice, it will melt', если речь о законе природы. Для универсальной истины — Present в обеих частях: 'If you heat ice, it melts'. 'Will' оставь для конкретного будущего случая.",
+          "examples": [
+            { "en": "If you heat ice, it melts.", "ru": "Если нагреть лёд, он тает." },
+            { "en": "Water boils if you heat it to 100 degrees.", "ru": "Вода кипит, если нагреть её до 100 градусов." },
+            { "en": "If I don't sleep, I feel tired.", "ru": "Если я не сплю, я чувствую усталость." }
+          ]
+        },
+        {
+          "title": "First Conditional",
+          "formula": "If + Present Simple, will + Verb",
+          "bro_explanation": "First — это реальный план на будущее. «Если пойдёт дождь — я останусь дома». Есть шанс, что так и будет, поэтому это не фантазия. Главное правило: после 'if' — настоящее, а 'will' живёт только во второй части.",
+          "common_mistake": "НЕ ГОВОРИ: 'If it will rain tomorrow, I will stay'. После 'if' никакого 'will'! 'will' — только во второй части: 'If it rains tomorrow, I will stay home'.",
+          "examples": [
+            { "en": "If it rains, I will stay home.", "ru": "Если пойдёт дождь, я останусь дома." },
+            { "en": "We will be late if we don't hurry.", "ru": "Мы опоздаем, если не поторопимся." },
+            { "en": "If you study hard, you will pass the exam.", "ru": "Если будешь усердно учиться, сдашь экзамен." }
+          ]
+        },
+        {
+          "title": "Second Conditional",
+          "formula": "If + Past Simple, would + Verb",
+          "bro_explanation": "Second — это мечты и фантазии: «Если бы я был королём...». Ты не король и в этой фантазии им не станешь, поэтому после 'if' идёт прошлое время, а во второй части — 'would'. Логика простая: прошлое время = нереально.",
+          "common_mistake": "НЕ ГОВОРИ: 'If I was you...'. В нереальных ситуациях мы всегда ставим 'were', даже с I: 'If I were you, I would go'. Эту классику обожают все тесты.",
+          "examples": [
+            { "en": "If I were rich, I would travel the world.", "ru": "Если бы я был богат, я бы путешествовал по миру." },
+            { "en": "If I were you, I would go to the party.", "ru": "Я бы на твоём месте пошёл на вечеринку." },
+            { "en": "What would you do if you won the lottery?", "ru": "Что бы ты сделал, если бы выиграл в лотерею?" }
+          ]
+        },
+        {
+          "title": "Third Conditional",
+          "formula": "If + had + V3, would have + V3",
+          "bro_explanation": "Third — это «поезд ушёл». Сожаления о прошлом: «Если бы я тогда знал...». Действие уже не изменить, поэтому в одной части past perfect, а в другой 'would have + V3'. Мудрость, как известно, приходит после драки.",
+          "common_mistake": "НЕ ГОВОРИ: 'If I would have known...'. В части с 'if' никакого 'would' быть не должно — только 'had'. Правильно: 'If I had known, I would have come'.",
+          "examples": [
+            { "en": "I would have come if I had known.", "ru": "Я бы пришёл, если бы знал." },
+            { "en": "If they had asked us, we would have helped.", "ru": "Если бы они попросили, мы бы помогли." },
+            { "en": "He would have been angry if he had known.", "ru": "Он бы разозлился, если бы знал." }
+          ]
+        },
+        {
+          "title": "Mixed Conditionals",
+          "formula": "If + Past Perfect, would + Verb | If + Past Simple, would have + V3",
+          "bro_explanation": "Иногда прошлое и настоящее перемешиваются. «Если бы я выучил английский в школе (прошлое), у меня была бы сейчас крутая работа (настоящее)» — вот это Mixed. Условие в одном времени, результат — в другом. Продвинутый уровень, но звучит очень естественно.",
+          "common_mistake": "НЕ ГОВОРИ наугад: следи, чтобы времена соответствовали реальности. Условие про прошлое + результат про настоящее → 'If I had studied, I would have a better job now'. Если перепутать, смысл поедет.",
+          "examples": [
+            { "en": "If I had studied medicine, I would be a doctor now.", "ru": "Если бы я учился на врача, я был бы сейчас врачом." },
+            { "en": "If she were more careful, she wouldn't have lost her keys.", "ru": "Если бы она была внимательнее, она бы не потеряла ключи." },
+            { "en": "If he hadn't missed the flight, he would be here already.", "ru": "Если бы он не пропустил рейс, он был бы уже здесь." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "If I ___ you, I would go to the party.", "options": ["were", "am", "was", "be"], "correct": "were" },
+        { "question": "If it ___ tomorrow, we will cancel the trip.", "options": ["rains", "rain", "will rain", "rained"], "correct": "rains" },
+        { "question": "I would have come if I ___ known.", "options": ["had", "have", "would have", "did"], "correct": "had" },
+        { "question": "If you heat ice, it ___.", "options": ["melts", "melt", "will melt", "would melt"], "correct": "melts" },
+        { "question": "What ___ you do if you won the lottery?", "options": ["would", "will", "do", "did"], "correct": "would" },
+        { "question": "If she ___ harder, she would pass the exam.", "options": ["studied", "studies", "study", "will study"], "correct": "studied" },
+        { "question": "We ___ late if we don't hurry.", "options": ["will be", "would be", "are", "were"], "correct": "will be" },
+        { "question": "If I ___ time, I will call you later.", "options": ["have", "had", "will have", "would have"], "correct": "have" },
+        { "question": "He would have been angry if he ___.", "options": ["had known", "knew", "knows", "will know"], "correct": "had known" },
+        { "question": "If I ___ a bird, I would fly away.", "options": ["were", "am", "was", "be"], "correct": "were" },
+        { "question": "You ___ weight if you exercise.", "options": ["will lose", "would lose", "lose", "lost"], "correct": "will lose" },
+        { "question": "If they ___ us, we would have helped them.", "options": ["had asked", "asked", "ask", "will ask"], "correct": "had asked" },
+        { "question": "Water turns into ice if you ___ it.", "options": ["freeze", "freezes", "will freeze", "froze"], "correct": "freeze" },
+        { "question": "If she ___ enough money, she'd buy a car.", "options": ["had", "has", "will have", "would have"], "correct": "had" },
+        { "question": "What will you do if he ___?", "options": ["doesn't come", "didn't come", "won't come", "not come"], "correct": "doesn't come" },
+        { "question": "If you ___ ice, it melts.", "options": ["heat", "will heat", "heated", "heats"], "correct": "heat" },
+        { "question": "If I had more time, I ___ join you.", "options": ["would", "will", "did", "do"], "correct": "would" },
+        { "question": "She would have passed if she ___ studied harder.", "options": ["had", "has", "have", "would"], "correct": "had" },
+        { "question": "If he ___ the flight, he would be here now.", "options": ["hadn't missed", "didn't miss", "doesn't miss", "won't miss"], "correct": "hadn't missed" }
+      ]
+    },
+{
+      "id": "passive-voice",
+      "icon": "⚙️",
+      "title": "Passive Voice",
+      "explanation": "Passive voice is used when the action is more important than the person doing it. Form: Be + Past Participle (V3). The doer can be added with \"by\".",
+      "cards": [
+        {
+          "title": "Passive Voice — Basics",
+          "formula": "To Be (right tense) + V3",
+          "bro_explanation": "В пассиве главный герой — не тот, кто действовал, а то, что с ним случилось. Как отчёт с места происшествия: «Окно разбито» — а кто разбил, вроде и не главное. Актив: «Шекспир написал Гамлета». Пассив: «Гамлет был написан Шекспиром».",
+          "common_mistake": "НЕ ГОВОРИ: 'The house was build in 1950'. Нужна третья форма глагола (V3), а не инфинитив: 'was built'. Одна буква — и всё развалилось.",
+          "examples": [
+            { "en": "The room is cleaned every day.", "ru": "Комнату убирают каждый день." },
+            { "en": "The bridge was built in 1900.", "ru": "Мост был построен в 1900 году." },
+            { "en": "English is spoken all over the world.", "ru": "На английском говорят по всему миру." }
+          ]
+        },
+        {
+          "title": "Passive in Different Tenses",
+          "formula": "is/are + V3 | was/were + V3 | will be + V3 | is being + V3",
+          "bro_explanation": "Хочешь перевести пассив в другое время — меняешь только 'to be', а 'V3' остаётся как верный пёс на месте. Present: is cleaned. Past: was cleaned. Future: will be cleaned. Прямо сейчас: is being cleaned.",
+          "common_mistake": "НЕ ГОВОРИ: 'A new hospital will built next year'. После 'will' обязательно нужен 'be': 'will be built'. Пассив без 'be' — это актив, который притворяется пассивом.",
+          "examples": [
+            { "en": "A new hospital will be built next year.", "ru": "В следующем году построят новую больницу." },
+            { "en": "The homework is being done right now.", "ru": "Домашнюю работу делают прямо сейчас." },
+            { "en": "The news was announced on TV.", "ru": "Новость объявили по телевизору." }
+          ]
+        },
+        {
+          "title": "The Agent & Double Objects",
+          "formula": "be + V3 (+ by + agent) | give someone something → someone be given something",
+          "bro_explanation": "Кто сделал — не всегда важно, и тогда мы его вообще прячем. А если важно — добавляем 'by': 'Hamlet was written by Shakespeare'. Ещё в пассиве есть фокус с двумя объектами: 'They gave me a prize' → 'I was given a prize' (я вышел на первый план) или 'A prize was given to me'. Выбирай, что хочешь подчеркнуть.",
+          "common_mistake": "НЕ ГОВОРИ: 'The window was broken from the wind'. «Кем/чем» в пассиве — это 'by' для действующего лица и 'with' для инструмента: 'broken by the wind' (деятель) или 'cut with a knife' (инструмент). Не путай эти два предлога.",
+          "examples": [
+            { "en": "Hamlet was written by Shakespeare.", "ru": "«Гамлет» был написан Шекспиром." },
+            { "en": "I was given a prize.", "ru": "Мне вручили приз." },
+            { "en": "The letter was sent by my brother.", "ru": "Письмо было отправлено моим братом." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "This house ___ in 1950.", "options": ["was built", "is built", "built", "builds"], "correct": "was built" },
+        { "question": "The letters ___ every morning.", "options": ["are delivered", "deliver", "delivered", "are deliver"], "correct": "are delivered" },
+        { "question": "The window ___ by the wind last night.", "options": ["was broken", "broke", "is broken", "broken"], "correct": "was broken" },
+        { "question": "English ___ all over the world.", "options": ["is spoken", "speaks", "is speaking", "spoke"], "correct": "is spoken" },
+        { "question": "This car ___ in Japan.", "options": ["was made", "is making", "made", "makes"], "correct": "was made" },
+        { "question": "The homework ___ by the students now.", "options": ["is being done", "is done", "does", "was done"], "correct": "is being done" },
+        { "question": "A new hospital ___ next year.", "options": ["will be built", "is built", "will build", "is building"], "correct": "will be built" },
+        { "question": "The thief ___ by the police yesterday.", "options": ["was caught", "caught", "is caught", "catches"], "correct": "was caught" },
+        { "question": "This book ___ by a famous author.", "options": ["was written", "wrote", "is writing", "writes"], "correct": "was written" },
+        { "question": "Dinner ___ served at 7:00 PM.", "options": ["is", "are", "was", "be"], "correct": "is" },
+        { "question": "The plants ___ watered every day.", "options": ["are", "is", "was", "be"], "correct": "are" },
+        { "question": "The project ___ finished yesterday.", "options": ["was", "is", "will be", "were"], "correct": "was" },
+        { "question": "Many cakes ___ eaten at the party.", "options": ["were", "was", "are", "is"], "correct": "were" },
+        { "question": "The room ___ every week.", "options": ["is cleaned", "cleaned", "clean", "is cleaning"], "correct": "is cleaned" },
+        { "question": "The news ___ announced on TV.", "options": ["was", "were", "are", "be"], "correct": "was" },
+        { "question": "Hamlet ___ by Shakespeare.", "options": ["was written", "wrote", "writes", "is writing"], "correct": "was written" },
+        { "question": "I ___ a prize at the ceremony.", "options": ["was given", "gave", "give", "giving"], "correct": "was given" }
+      ]
+    },
+    {
+      "id": "pronouns",
+      "icon": "👤",
+      "title": "Pronouns & Possessives",
+      "explanation": "Pronouns replace nouns. Possessives show who owns something. Subject (I), Object (me), Possessive Adjective (my), Possessive Pronoun (mine), Reflexive (myself).",
+      "cards": [
+        {
+          "title": "Subject vs Object Pronouns",
+          "formula": "Subject (I, he, she) + Verb + Object (me, him, her)",
+          "bro_explanation": "Субъектные местоимения — те, кто делает. Объектные — те, на кого действие направлено или кому что-то дают. 'I love him' — I рулит, him получает. Быстрый тест: подставь местоимение вместо существительного, и сразу станет ясно, кто тут главный.",
+          "common_mistake": "НЕ ГОВОРИ: 'Me and my friend went out'. Ты же подлежащее, значит 'I': 'My friend and I went out'. Бонус: себя ставь вторым — и вежливо, и грамматически верно.",
+          "examples": [
+            { "en": "I saw him at the park.", "ru": "Я видел его в парке." },
+            { "en": "Give the keys to us.", "ru": "Отдай нам ключи." },
+            { "en": "She invited me to the party.", "ru": "Она пригласила меня на вечеринку." }
+          ]
+        },
+        {
+          "title": "Possessive Adjectives vs Possessive Pronouns",
+          "formula": "my + noun | mine (standalone)",
+          "bro_explanation": "Притяжательное прилагательное всегда тащит за собой существительное: 'my book', 'your car'. А притяжательное местоимение стоит само: 'It's mine' — и всем ясно, что «моё». Два брата: один всегда с вещью, другой самодостаточный.",
+          "common_mistake": "НЕ ГОВОРИ: 'This book is my'. Если после местоимения НЕТ существительного, нужна форма с 's' на конце: 'This book is mine'. И не путай 'its' (принадлежность) с 'it's' (это = it is).",
+          "examples": [
+            { "en": "This is my book, not yours.", "ru": "Это моя книга, а не твоя." },
+            { "en": "This book is mine.", "ru": "Эта книга — моя." },
+            { "en": "The cat licked its paw.", "ru": "Кошка лизнула свою лапу." }
+          ]
+        },
+        {
+          "title": "Reflexive Pronouns",
+          "formula": "myself, yourself, himself, herself, itself, ourselves, themselves",
+          "bro_explanation": "Возвратные местоимения — это когда действие отражается на самого себя. 'I did it myself' — не нанимал никого, сделал сам. Классика: 'She hurt herself' (сама себя), 'We enjoyed ourselves' (нам было весело).",
+          "common_mistake": "НЕ ГОВОРИ: 'I enjoyed very much'. По-русски «мне понравилось» без объекта, а по-английски себя надо добавить: 'I enjoyed myself'. Кто веселится? Я — вот и скажи это прямо.",
+          "examples": [
+            { "en": "She did it herself.", "ru": "Она сделала это сама." },
+            { "en": "We enjoyed ourselves at the beach.", "ru": "Нам было весело на пляже." },
+            { "en": "He taught himself to play the guitar.", "ru": "Он сам научился играть на гитаре." }
+          ]
+        },
+        {
+          "title": "Demonstratives & Indefinite Pronouns",
+          "formula": "this / that (singular) | these / those (plural) | someone, anyone, nothing, everybody (singular verb)",
+          "bro_explanation": "This / these — «вот это рядом», that / those — «вон то подальше» (или то, что уже упоминали). А неопределённые местоимения (someone, anybody, nothing, everybody) — это «кто-то / любой / ничто / все». Лайфхак: после них глагол всегда в единственном числе ('Everybody is here').",
+          "common_mistake": "НЕ ГОВОРИ: 'Everybody are happy' или 'Someone are waiting'. Неопределённые местоимения — всегда единственное число: 'Everybody is happy', 'Someone is waiting'. Даже если имеешь в виду целую толпу.",
+          "examples": [
+            { "en": "This is my pen and those are yours.", "ru": "Это моя ручка, а те — твои." },
+            { "en": "Someone is waiting for you.", "ru": "Кто-то тебя ждёт." },
+            { "en": "Everybody is ready to go.", "ru": "Все готовы идти." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "This is ___ book, not yours.", "options": ["my", "mine", "me", "I"], "correct": "my" },
+        { "question": "I saw ___ at the park yesterday.", "options": ["him", "he", "his", "himself"], "correct": "him" },
+        { "question": "Is this car ___?", "options": ["hers", "her", "she", "herself"], "correct": "hers" },
+        { "question": "___ are going to the cinema tonight.", "options": ["They", "Them", "Their", "Theirs"], "correct": "They" },
+        { "question": "Give the keys to ___.", "options": ["us", "we", "our", "ours"], "correct": "us" },
+        { "question": "This is their house. The blue one is ___.", "options": ["ours", "our", "we", "us"], "correct": "ours" },
+        { "question": "___ phone is ringing?", "options": ["Whose", "Who", "Whom", "Who's"], "correct": "Whose" },
+        { "question": "She did it ___.", "options": ["herself", "her", "she", "hers"], "correct": "herself" },
+        { "question": "I don't know ___ sister.", "options": ["his", "him", "he", "himself"], "correct": "his" },
+        { "question": "This is my pen. Where is ___?", "options": ["yours", "your", "you", "yourself"], "correct": "yours" },
+        { "question": "___ invited us to the party.", "options": ["He", "Him", "His", "Himself"], "correct": "He" },
+        { "question": "We enjoyed ___ at the beach.", "options": ["ourselves", "us", "our", "ours"], "correct": "ourselves" },
+        { "question": "Is that ___ umbrella?", "options": ["your", "yours", "you", "yourself"], "correct": "your" },
+        { "question": "I like ___ very much.", "options": ["them", "they", "their", "theirs"], "correct": "them" },
+        { "question": "The cat licked ___ paw.", "options": ["its", "it's", "it", "itself"], "correct": "its" },
+        { "question": "Someone ___ waiting for you.", "options": ["is", "are", "were", "be"], "correct": "is" },
+        { "question": "Everybody ___ ready to go.", "options": ["is", "are", "were", "be"], "correct": "is" },
+        { "question": "___ are yours. (plural, near)", "options": ["These", "This", "That", "It"], "correct": "These" }
+      ]
+    },
+    {
+      "id": "gerunds",
+      "icon": "🔀",
+      "title": "Gerunds vs Infinitives",
+      "explanation": "Some verbs are followed by -ing (Gerunds), some by \"to\" (Infinitives). A few verbs change meaning depending on the form, and after modals or make/let the verb is a bare infinitive.",
+      "cards": [
+        {
+          "title": "Gerunds (-ing)",
+          "formula": "Verb + Verb-ing",
+          "bro_explanation": "Герундий — это глагол, который притворился существительным. 'Swimming is fun' — тут плавание не действие, а само занятие. Некоторые глаголы дружат только с '-ing': enjoy, avoid, finish, keep, mind, suggest.",
+          "common_mistake": "НЕ ГОВОРИ: 'I enjoy to swim'. Глагол 'enjoy' жёстко дружит только с '-ing'. Заучи мини-список компании '-ing': enjoy, avoid, finish, mind, keep, suggest.",
+          "examples": [
+            { "en": "I enjoy swimming in the ocean.", "ru": "Я люблю плавать в океане." },
+            { "en": "Avoid eating too much sugar.", "ru": "Избегай есть слишком много сахара." },
+            { "en": "He finished doing his homework.", "ru": "Он закончил делать домашнюю работу." }
+          ]
+        },
+        {
+          "title": "Infinitives (to + Verb)",
+          "formula": "Verb + to + Verb (base form)",
+          "bro_explanation": "Инфинитив — это 'to + глагол', и он идёт после глаголов планов и желаний: want, decide, hope, promise, need, would like. 'I want to swim' — есть цель, есть мечта. Есть цель — тянешь 'to'.",
+          "common_mistake": "НЕ ГОВОРИ: 'I want swimming' или 'She decided buying a car'. Если это про цель и намерение — бери 'to': want to swim, decide to buy, hope to win.",
+          "examples": [
+            { "en": "She decided to buy a new car.", "ru": "Она решила купить новую машину." },
+            { "en": "They hope to win the match.", "ru": "Они надеются выиграть матч." },
+            { "en": "I want to go to London next year.", "ru": "Я хочу поехать в Лондон в следующем году." }
+          ]
+        },
+        {
+          "title": "Verbs with Both: stop / remember / forget / try",
+          "formula": "stop / remember / forget / try + Verb-ing (past action) vs + to + Verb (future intention)",
+          "bro_explanation": "Есть глаголы-двуличные: с '-ing' смысл один, с 'to' — совсем другой. 'I stopped smoking' — бросил курить. 'I stopped to smoke' — остановился, чтобы покурить. 'I remember locking the door' — помню, как закрыл. 'I remember to lock the door' — помню, что надо закрыть. Одна буква — и смысл переворачивается.",
+          "common_mistake": "НЕ ВЫБИРАЙ наугад: 'stop doing' = прекратить действие, 'stop to do' = остановиться, чтобы сделать. 'forget doing' = забыть, что делал, 'forget to do' = забыть сделать. Форма меняет смысл — всегда думай, что именно хочешь сказать.",
+          "examples": [
+            { "en": "He stopped smoking last year.", "ru": "В прошлом году он бросил курить." },
+            { "en": "We stopped to buy some water.", "ru": "Мы остановились, чтобы купить воды." },
+            { "en": "I remember meeting her at the party.", "ru": "Я помню, как встретил её на вечеринке." }
+          ]
+        },
+        {
+          "title": "Bare Infinitive: after modals and make / let",
+          "formula": "modal + V (base) | make / let / see / hear + object + V (base)",
+          "bro_explanation": "Иногда 'to' вообще не нужен — глагол стоит голым. После модальных (can, must, will) мы это уже знаем. А ещё после make, let, see, hear + объект: 'She made me laugh' (не 'to laugh'), 'Let him go'. Глагол идёт сразу за объектом — без 'to'.",
+          "common_mistake": "НЕ ГОВОРИ: 'She made me to laugh' или 'Let him to go'. После make / let / see / hear 'to' не ставится: 'She made me laugh', 'Let him go'. Но в пассиве 'to' возвращается: 'I was made to wait'.",
+          "examples": [
+            { "en": "She made me laugh.", "ru": "Она заставила меня смеяться." },
+            { "en": "Let him go.", "ru": "Отпусти его." },
+            { "en": "I saw him cross the street.", "ru": "Я видел, как он перешёл улицу." }
+          ]
+        }
+      ],
+      "tasks": [
+        { "question": "I enjoy ___ in the ocean.", "options": ["swimming", "to swim", "swim", "swum"], "correct": "swimming" },
+        { "question": "She decided ___ a new car.", "options": ["to buy", "buying", "buy", "bought"], "correct": "to buy" },
+        { "question": "I want ___ to London next year.", "options": ["to go", "going", "go", "gone"], "correct": "to go" },
+        { "question": "He finished ___ his homework.", "options": ["doing", "to do", "do", "did"], "correct": "doing" },
+        { "question": "Avoid ___ too much sugar.", "options": ["eating", "to eat", "eat", "eaten"], "correct": "eating" },
+        { "question": "They hope ___ the match.", "options": ["to win", "winning", "win", "won"], "correct": "to win" },
+        { "question": "I would like ___ a coffee.", "options": ["to have", "having", "have", "had"], "correct": "to have" },
+        { "question": "Stop ___ so much noise!", "options": ["making", "to make", "make", "made"], "correct": "making" },
+        { "question": "She promised ___ me back later.", "options": ["to call", "calling", "call", "called"], "correct": "to call" },
+        { "question": "He suggested ___ to the cinema.", "options": ["going", "to go", "go", "went"], "correct": "going" },
+        { "question": "I forgot ___ the door.", "options": ["to lock", "locking", "lock", "locked"], "correct": "to lock" },
+        { "question": "We need ___ more water.", "options": ["to buy", "buying", "buy", "bought"], "correct": "to buy" },
+        { "question": "Keep ___ until you succeed.", "options": ["trying", "to try", "try", "tried"], "correct": "trying" },
+        { "question": "She doesn't mind ___ early.", "options": ["waking up", "to wake up", "wake up", "woke up"], "correct": "waking up" },
+        { "question": "It is difficult ___ English.", "options": ["to learn", "learning", "learn", "learned"], "correct": "to learn" },
+        { "question": "He stopped ___ last year. (quit)", "options": ["smoking", "to smoke", "smoke", "smoked"], "correct": "smoking" },
+        { "question": "We stopped ___ some water on the way.", "options": ["to buy", "buying", "buy", "bought"], "correct": "to buy" },
+        { "question": "She made me ___.", "options": ["laugh", "to laugh", "laughing", "laughed"], "correct": "laugh" },
+        { "question": "Let him ___.", "options": ["go", "to go", "going", "went"], "correct": "go" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "The Tale of Peter Rabbit",
+    "level": "Beginner",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=The+Tale+of+Peter+Rabbit.+Peter+ran+to+Mr+McGregor+garden+and+ate+fresh+lettuces+and+beans+before+being+chased+away.&tl=en",
+    "description": "Follow the mischievous young rabbit Peter as he ventures into Mr. McGregor's vegetable garden despite his mother's gentle warning.",
+    "text": "Once upon a time there were four little rabbits: Flopsy, Mopsy, Cotton-tail, and Peter. One morning their mother told them not to go into Mr. McGregor's garden because it was dangerous. But Peter, who was very naughty, ran straight away to Mr. McGregor's garden and squeezed under the gate! First he ate some lettuces and French beans, and then he ate some radishes. Suddenly, around the corner of the cucumber frame, whom should he meet but Mr. McGregor! Mr. McGregor jumped up and chased Peter, waving a rake and shouting! Peter lost both of his shoes among the cabbages, and his lovely blue jacket with brass buttons got caught in a gooseberry net. Poor Peter ran all the way home out of breath. When he returned home exhausted, his mother put him to bed and gave him a cup of chamomile tea.",
+    "questions": [
+      {
+        "question": "Where does Peter Rabbit go despite his mother's warning?",
+        "options": [
+          "To Mr. McGregor's garden",
+          "To the local farmer's market",
+          "Into the deep dark forest"
+        ],
+        "correct": "To Mr. McGregor's garden"
+      },
+      {
+        "question": "What does Peter eat first upon entering the garden?",
+        "options": [
+          "Lettuces and French beans",
+          "Chocolate cookies",
+          "Ripe red apples"
+        ],
+        "correct": "Lettuces and French beans"
+      },
+      {
+        "question": "Who chases Peter across the garden holding a rake?",
+        "options": [
+          "Mr. McGregor",
+          "An old black cat",
+          "A friendly scarecrow"
+        ],
+        "correct": "Mr. McGregor"
+      },
+      {
+        "question": "What items of clothing does Peter lose in the garden?",
+        "options": [
+          "His shoes and blue jacket",
+          "His warm wool mittens",
+          "His yellow rain boots"
+        ],
+        "correct": "His shoes and blue jacket"
+      },
+      {
+        "question": "What does Peter's mother give him when he returns home exhausted?",
+        "options": [
+          "A cup of chamomile tea",
+          "A slice of blackberry pie",
+          "Warm milk and biscuits"
+        ],
+        "correct": "A cup of chamomile tea"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Scandal in Bohemia — Sherlock Holmes",
+    "level": "Intermediate",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=A+Scandal+in+Bohemia.+Sherlock+Holmes+is+hired+by+the+King+of+Bohemia+to+retrieve+a+photograph+from+Irene+Adler.&tl=en",
+    "description": "Dr. Watson recounts the celebrated case where detective Sherlock Holmes is hired by the King of Bohemia to recover a compromising photograph.",
+    "text": "To Sherlock Holmes she is always the woman. In his eyes she eclipses and predominates the whole of her sex. One evening, a tall gentleman wearing a black vizard mask arrived at 221B Baker Street. He introduced himself as Count von Kramm, but Holmes quickly recognized him as Wilhelm, the King of Bohemia. The King explained that five years ago, during a prolonged stay in Warsaw, he had formed a romantic relationship with a well-known opera singer named Irene Adler. The King was now to be married to a Scandinavian princess, but Irene threatened to reveal an indiscreet photograph of the two of them together, which would destroy the royal marriage. To gain entrance to Irene Adler's house on Serpentine Avenue, Holmes disguised himself as an amiable Nonconformist clergyman and staged a street altercation. However, Irene saw through the deception, fled the country with the photograph, and left a letter for Holmes showing she had completely outwitted him. From that day on, Holmes never spoke of her by any title other than the honorable name of The Woman.",
+    "questions": [
+      {
+        "question": "Who visits Sherlock Holmes at Baker Street under an assumed identity?",
+        "options": [
+          "The King of Bohemia",
+          "The Prime Minister of Great Britain",
+          "A renowned Parisian jeweler"
+        ],
+        "correct": "The King of Bohemia"
+      },
+      {
+        "question": "What compromising item is the client desperate to recover?",
+        "options": [
+          "An indiscreet photograph",
+          "A stolen emerald necklace",
+          "A top-secret government document"
+        ],
+        "correct": "An indiscreet photograph"
+      },
+      {
+        "question": "What is the name of the remarkable woman who outwits Sherlock Holmes?",
+        "options": [
+          "Irene Adler",
+          "Mary Morstan",
+          "Helen Stoner"
+        ],
+        "correct": "Irene Adler"
+      },
+      {
+        "question": "What disguise does Holmes adopt to gain entrance to the house?",
+        "options": [
+          "An amiable Nonconformist clergyman",
+          "A local cab driver",
+          "A wealthy art collector"
+        ],
+        "correct": "An amiable Nonconformist clergyman"
+      },
+      {
+        "question": "How does Sherlock Holmes respectfully refer to Irene Adler ever after?",
+        "options": [
+          "\"The Woman\"",
+          "\"The Contessa\"",
+          "\"The Mastermind\""
+        ],
+        "correct": "\"The Woman\""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Architecture of Human Cognition and AI",
+    "level": "Advanced",
+    "audioUrl": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=The+Architecture+of+Human+Cognition+and+AI.+Contrasting+prefrontal+cortex+plasticity+with+artificial+neural+networks.&tl=en",
+    "description": "An analytical exploration contrasting biological neural dynamics in the human cerebral cortex with modern transformer-based machine learning systems.",
+    "text": "Contemporary cognitive neuroscience and artificial intelligence have reached a profound intersection. While modern transformer architectures exhibit remarkable statistical pattern extraction across billions of parameters, biological intelligence displays fundamentally distinct computational principles. The prefrontal cortex of the mammalian brain acts as the primary anatomical coordinator of executive functioning, allowing flexible task switching and sustained working memory. Biological brain plasticity enables contextual meta-learning and zero-shot reasoning from remarkably scarce sensory input, which contrasts sharply with the brute-force sample inefficiency of artificial models. Furthermore, artificial neural networks face the persistent dilemma of catastrophic forgetting, where acquiring novel competencies completely obliterates prior representations. In contrast, neuromorphic architectures draw inspiration from the sparse temporal pulse dynamics of biological synapses, drastically reducing metabolic energy requirements. Ultimately, achieving genuine cognitive robustness requires moving beyond pure deep gradient descent toward a hybrid neuro-symbolic framework that unites continuous neural learning with compositional algorithmic reasoning.",
+    "questions": [
+      {
+        "question": "According to the speaker, what key capability distinguishes biological brain plasticity?",
+        "options": [
+          "Contextual meta-learning and zero-shot reasoning",
+          "Vastly higher clock frequencies",
+          "Rigid linear matrix optimization"
+        ],
+        "correct": "Contextual meta-learning and zero-shot reasoning"
+      },
+      {
+        "question": "Which anatomical structure is highlighted for coordinating executive functioning?",
+        "options": [
+          "The prefrontal cortex",
+          "The occipital lobe",
+          "The cerebellar hemisphere"
+        ],
+        "correct": "The prefrontal cortex"
+      },
+      {
+        "question": "What fundamental biological phenomenon inspires neuromorphic spiking neural networks?",
+        "options": [
+          "Sparse temporal pulse dynamics of synapses",
+          "Continuous backpropagation across all layers",
+          "Synchronous global clock synchronization"
+        ],
+        "correct": "Sparse temporal pulse dynamics of synapses"
+      },
+      {
+        "question": "What persistent dilemma in artificial neural networks is discussed regarding continuous training?",
+        "options": [
+          "Catastrophic forgetting",
+          "Floating-point overflow",
+          "Syntactic convergence error"
+        ],
+        "correct": "Catastrophic forgetting"
+      },
+      {
+        "question": "What synthesis does the lecturer recommend for the next generation of intelligent systems?",
+        "options": [
+          "A hybrid neuro-symbolic framework",
+          "Purely increasing parameter count indefinitely",
+          "Abandoning probabilistic inference"
+        ],
+        "correct": "A hybrid neuro-symbolic framework"
+      }
+    ]
+  }
+]

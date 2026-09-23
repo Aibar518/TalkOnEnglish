@@ -1,0 +1,3817 @@
+{
+  "A1_A2": [
+    {
+      "word": "apple",
+      "translation": "яблоко",
+      "transcription": "[ˈæpl]",
+      "example": "I eat a fresh apple every morning.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "book",
+      "translation": "книга",
+      "transcription": "[bʊk]",
+      "example": "She loves reading an interesting book.",
+      "category": "General English"
+    },
+    {
+      "word": "water",
+      "translation": "вода",
+      "transcription": "[ˈwɔːtər]",
+      "example": "Drink plenty of clean water every day.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "friend",
+      "translation": "друг",
+      "transcription": "[frend]",
+      "example": "My friend always helps me with homework.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "house",
+      "translation": "дом",
+      "transcription": "[haʊs]",
+      "example": "They bought a beautiful white house.",
+      "category": "General English"
+    },
+    {
+      "word": "learn",
+      "translation": "учить / изучать",
+      "transcription": "[lɜːrn]",
+      "example": "We learn English together every evening.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "happy",
+      "translation": "счастливый",
+      "transcription": "[ˈhæpi]",
+      "example": "The children were very happy at the park.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "family",
+      "translation": "семья",
+      "transcription": "[ˈfæməli]",
+      "example": "I spend every weekend with my family.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "travel",
+      "translation": "путешествовать",
+      "transcription": "[ˈtrævl]",
+      "example": "They love to travel around the world.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "morning",
+      "translation": "утро",
+      "transcription": "[ˈmɔːrnɪŋ]",
+      "example": "The morning air is so fresh today.",
+      "category": "General English"
+    },
+    {
+      "word": "school",
+      "translation": "школа",
+      "transcription": "[skuːl]",
+      "example": "He walks to school with his classmates.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "city",
+      "translation": "город",
+      "transcription": "[ˈsɪti]",
+      "example": "New York is an enormous and lively city.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "breakfast",
+      "translation": "завтрак",
+      "transcription": "[ˈbrekfəst]",
+      "example": "We have breakfast together at eight o'clock.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "weather",
+      "translation": "погода",
+      "transcription": "[ˈweðər]",
+      "example": "The weather is warm and sunny today.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "listen",
+      "translation": "слушать",
+      "transcription": "[ˈlɪsn]",
+      "example": "Please listen carefully to the teacher.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "address",
+      "translation": "адрес",
+      "example": "Write your address here.",
+      "category": "General English"
+    },
+    {
+      "word": "afternoon",
+      "translation": "день",
+      "example": "We meet in the afternoon.",
+      "category": "General English"
+    },
+    {
+      "word": "again",
+      "translation": "снова",
+      "example": "Please say it again.",
+      "category": "General English"
+    },
+    {
+      "word": "age",
+      "translation": "возраст",
+      "example": "What is your age?",
+      "category": "General English"
+    },
+    {
+      "word": "airport",
+      "translation": "аэропорт",
+      "example": "We arrived at the airport early.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "animal",
+      "translation": "животное",
+      "example": "The zoo has many animals.",
+      "category": "General English"
+    },
+    {
+      "word": "answer",
+      "translation": "ответ",
+      "example": "Choose the correct answer.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": " apartment",
+      "translation": "квартира",
+      "example": "She lives in a small apartment.",
+      "category": "General English"
+    },
+    {
+      "word": "April",
+      "translation": "апрель",
+      "example": "April is often rainy.",
+      "category": "General English"
+    },
+    {
+      "word": "arm",
+      "translation": "рука",
+      "example": "My arm hurts today.",
+      "category": "General English"
+    },
+    {
+      "word": "art",
+      "translation": "искусство",
+      "example": "They study art at school.",
+      "category": "General English"
+    },
+    {
+      "word": "autumn",
+      "translation": "осень",
+      "example": "Leaves fall in autumn.",
+      "category": "General English"
+    },
+    {
+      "word": "baby",
+      "translation": "младенец",
+      "example": "The baby is sleeping.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "back",
+      "translation": "спина",
+      "example": "Put the bag on your back.",
+      "category": "General English"
+    },
+    {
+      "word": "bag",
+      "translation": "сумка",
+      "example": "My bag is under the chair.",
+      "category": "General English"
+    },
+    {
+      "word": "ball",
+      "translation": "мяч",
+      "example": "The children play with a ball.",
+      "category": "General English"
+    },
+    {
+      "word": "bathroom",
+      "translation": "ванная",
+      "example": "The bathroom is upstairs.",
+      "category": "General English"
+    },
+    {
+      "word": "beach",
+      "translation": "пляж",
+      "example": "We walked along the beach.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "beautiful",
+      "translation": "красивый",
+      "example": "It is a beautiful day.",
+      "category": "General English"
+    },
+    {
+      "word": "bed",
+      "translation": "кровать",
+      "example": "I go to bed at ten.",
+      "category": "General English"
+    },
+    {
+      "word": "begin",
+      "translation": "начинать",
+      "example": "Classes begin at nine.",
+      "category": "General English"
+    },
+    {
+      "word": "behind",
+      "translation": "позади",
+      "example": "The garden is behind the house.",
+      "category": "General English"
+    },
+    {
+      "word": "believe",
+      "translation": "верить",
+      "example": "I believe your story.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "bicycle",
+      "translation": "велосипед",
+      "example": "He rides a bicycle to work.",
+      "category": "General English"
+    },
+    {
+      "word": "big",
+      "translation": "большой",
+      "example": "They have a big garden.",
+      "category": "General English"
+    },
+    {
+      "word": "bird",
+      "translation": "птица",
+      "example": "A bird is sitting on the wall.",
+      "category": "General English"
+    },
+    {
+      "word": "birthday",
+      "translation": "день рождения",
+      "example": "Today is my birthday.",
+      "category": "General English"
+    },
+    {
+      "word": "black",
+      "translation": "черный",
+      "example": "She has a black coat.",
+      "category": "General English"
+    },
+    {
+      "word": "blue",
+      "translation": "синий",
+      "example": "The sky is blue.",
+      "category": "General English"
+    },
+    {
+      "word": "boat",
+      "translation": "лодка",
+      "example": "The boat is on the lake.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "body",
+      "translation": "тело",
+      "example": "Exercise helps your body.",
+      "category": "General English"
+    },
+    {
+      "word": "boy",
+      "translation": "мальчик",
+      "example": "The boy is reading.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "bread",
+      "translation": "хлеб",
+      "example": "We need fresh bread.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "brother",
+      "translation": "брат",
+      "example": "My brother plays football.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "busy",
+      "translation": "занятый",
+      "example": "I am busy this morning.",
+      "category": "General English"
+    },
+    {
+      "word": "buy",
+      "translation": "покупать",
+      "example": "I need to buy milk.",
+      "category": "General English"
+    },
+    {
+      "word": "cake",
+      "translation": "торт",
+      "example": "She made a chocolate cake.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "call",
+      "translation": "звонить",
+      "example": "Please call me tonight.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "camera",
+      "translation": "камера",
+      "example": "This camera takes clear pictures.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "car",
+      "translation": "машина",
+      "example": "Their car is outside.",
+      "category": "General English"
+    },
+    {
+      "word": "careful",
+      "translation": "осторожный",
+      "example": "Be careful on the stairs.",
+      "category": "General English"
+    },
+    {
+      "word": "cat",
+      "translation": "кошка",
+      "example": "The cat is on the sofa.",
+      "category": "General English"
+    },
+    {
+      "word": "chair",
+      "translation": "стул",
+      "example": "Sit on this chair.",
+      "category": "General English"
+    },
+    {
+      "word": "cheap",
+      "translation": "дешевый",
+      "example": "This shop sells cheap clothes.",
+      "category": "General English"
+    },
+    {
+      "word": "child",
+      "translation": "ребенок",
+      "example": "Every child needs care.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "choose",
+      "translation": "выбирать",
+      "example": "Choose one color.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "clean",
+      "translation": "чистый",
+      "example": "Keep your room clean.",
+      "category": "General English"
+    },
+    {
+      "word": "close",
+      "translation": "закрывать",
+      "example": "Please close the door.",
+      "category": "General English"
+    },
+    {
+      "word": "clothes",
+      "translation": "одежда",
+      "example": "Her clothes are wet.",
+      "category": "General English"
+    },
+    {
+      "word": "coffee",
+      "translation": "кофе",
+      "example": "I drink coffee in the morning.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "cold",
+      "translation": "холодный",
+      "example": "The water is cold.",
+      "category": "General English"
+    },
+    {
+      "word": "color",
+      "translation": "цвет",
+      "example": "What is your favorite color?",
+      "category": "General English"
+    },
+    {
+      "word": "come",
+      "translation": "приходить",
+      "example": "Come to my house later.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "computer",
+      "translation": "компьютер",
+      "example": "The computer is new.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "cook",
+      "translation": "готовить",
+      "example": "I cook dinner every day.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "corner",
+      "translation": "угол",
+      "example": "The shop is on the corner.",
+      "category": "General English"
+    },
+    {
+      "word": "country",
+      "translation": "страна",
+      "example": "France is a beautiful country.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "dance",
+      "translation": "танцевать",
+      "example": "They dance at the party.",
+      "category": "General English"
+    },
+    {
+      "word": "dangerous",
+      "translation": "опасный",
+      "example": "That road is dangerous.",
+      "category": "General English"
+    },
+    {
+      "word": "dark",
+      "translation": "темный",
+      "example": "It gets dark early.",
+      "category": "General English"
+    },
+    {
+      "word": "daughter",
+      "translation": "дочь",
+      "example": "Their daughter is six.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "day",
+      "translation": "день",
+      "example": "Have a nice day.",
+      "category": "General English"
+    },
+    {
+      "word": "December",
+      "translation": "декабрь",
+      "example": "December is the last month.",
+      "category": "General English"
+    },
+    {
+      "word": "different",
+      "translation": "разный",
+      "example": "We have different ideas.",
+      "category": "General English"
+    },
+    {
+      "word": "dinner",
+      "translation": "ужин",
+      "example": "Dinner is ready.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "doctor",
+      "translation": "врач",
+      "example": "The doctor helped me.",
+      "category": "General English"
+    },
+    {
+      "word": "dog",
+      "translation": "собака",
+      "example": "Our dog likes walks.",
+      "category": "General English"
+    },
+    {
+      "word": "door",
+      "translation": "дверь",
+      "example": "Open the door please.",
+      "category": "General English"
+    },
+    {
+      "word": "down",
+      "translation": "вниз",
+      "example": "Walk down the street.",
+      "category": "General English"
+    },
+    {
+      "word": "draw",
+      "translation": "рисовать",
+      "example": "Children draw pictures.",
+      "category": "General English"
+    },
+    {
+      "word": "dress",
+      "translation": "платье",
+      "example": "She wears a red dress.",
+      "category": "General English"
+    },
+    {
+      "word": "drink",
+      "translation": "пить",
+      "example": "Drink some water.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "early",
+      "translation": "рано",
+      "example": "I wake up early.",
+      "category": "General English"
+    },
+    {
+      "word": "easy",
+      "translation": "легкий",
+      "example": "This exercise is easy.",
+      "category": "General English"
+    },
+    {
+      "word": "eat",
+      "translation": "есть",
+      "example": "We eat lunch at noon.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "egg",
+      "translation": "яйцо",
+      "example": "I had an egg for breakfast.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "eight",
+      "translation": "восемь",
+      "example": "There are eight chairs.",
+      "category": "General English"
+    },
+    {
+      "word": "evening",
+      "translation": "вечер",
+      "example": "Good evening, everyone.",
+      "category": "General English"
+    },
+    {
+      "word": "every",
+      "translation": "каждый",
+      "example": "I walk every day.",
+      "category": "General English"
+    },
+    {
+      "word": "excited",
+      "translation": "взволнованный",
+      "example": "The children are excited.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "face",
+      "translation": "лицо",
+      "example": "Wash your face.",
+      "category": "General English"
+    },
+    {
+      "word": "fall",
+      "translation": "падать",
+      "example": "Leaves fall in October.",
+      "category": "General English"
+    },
+    {
+      "word": "far",
+      "translation": "далеко",
+      "example": "The station is not far.",
+      "category": "General English"
+    },
+    {
+      "word": "fast",
+      "translation": "быстрый",
+      "example": "This train is very fast.",
+      "category": "General English"
+    },
+    {
+      "word": "father",
+      "translation": "отец",
+      "example": "My father likes tea.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "feel",
+      "translation": "чувствовать",
+      "example": "I feel happy today.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "film",
+      "translation": "фильм",
+      "example": "We watched a funny film.",
+      "category": "General English"
+    },
+    {
+      "word": "find",
+      "translation": "находить",
+      "example": "Can you find my keys?",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "finish",
+      "translation": "заканчивать",
+      "example": "Finish your homework.",
+      "category": "General English"
+    },
+    {
+      "word": "first",
+      "translation": "первый",
+      "example": "This is my first lesson.",
+      "category": "General English"
+    },
+    {
+      "word": "fish",
+      "translation": "рыба",
+      "example": "We saw a fish in the river.",
+      "category": "General English"
+    },
+    {
+      "word": "floor",
+      "translation": "пол",
+      "example": "The book is on the floor.",
+      "category": "General English"
+    },
+    {
+      "word": "flower",
+      "translation": "цветок",
+      "example": "This flower smells lovely.",
+      "category": "General English"
+    },
+    {
+      "word": "food",
+      "translation": "еда",
+      "example": "The food is delicious.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "foot",
+      "translation": "стопа",
+      "example": "My foot is tired.",
+      "category": "General English"
+    },
+    {
+      "word": "forget",
+      "translation": "забывать",
+      "example": "Do not forget your keys.",
+      "category": "General English"
+    },
+    {
+      "word": "four",
+      "translation": "четыре",
+      "example": "I have four pencils.",
+      "category": "General English"
+    },
+    {
+      "word": "free",
+      "translation": "свободный",
+      "example": "Are you free tonight?",
+      "category": "General English"
+    },
+    {
+      "word": "Friday",
+      "translation": "пятница",
+      "example": "We meet on Friday.",
+      "category": "General English"
+    },
+    {
+      "word": "front",
+      "translation": "передняя часть",
+      "example": "Wait in front of the shop.",
+      "category": "General English"
+    },
+    {
+      "word": "full",
+      "translation": "полный",
+      "example": "The bus is full.",
+      "category": "General English"
+    },
+    {
+      "word": "funny",
+      "translation": "смешной",
+      "example": "That story is funny.",
+      "category": "General English"
+    },
+    {
+      "word": "garden",
+      "translation": "сад",
+      "example": "Flowers grow in the garden.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "get",
+      "translation": "получать",
+      "example": "I get emails every day.",
+      "category": "General English"
+    },
+    {
+      "word": "girl",
+      "translation": "девочка",
+      "example": "The girl is smiling.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "give",
+      "translation": "давать",
+      "example": "Give me the book.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "glass",
+      "translation": "стакан",
+      "example": "A glass of juice is ready.",
+      "category": "General English"
+    },
+    {
+      "word": "go",
+      "translation": "идти",
+      "example": "We go home together.",
+      "category": "General English"
+    },
+    {
+      "word": "good",
+      "translation": "хороший",
+      "example": "She is a good teacher.",
+      "category": "General English"
+    },
+    {
+      "word": "grandmother",
+      "translation": "бабушка",
+      "example": "My grandmother bakes bread.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "great",
+      "translation": "отличный",
+      "example": "You did a great job.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "green",
+      "translation": "зеленый",
+      "example": "The leaves are green.",
+      "category": "General English"
+    },
+    {
+      "word": "group",
+      "translation": "группа",
+      "example": "Our group studies together.",
+      "category": "General English"
+    },
+    {
+      "word": "hand",
+      "translation": "рука",
+      "example": "Raise your hand.",
+      "category": "General English"
+    },
+    {
+      "word": "hat",
+      "translation": "шляпа",
+      "example": "He wears a warm hat.",
+      "category": "General English"
+    },
+    {
+      "word": "head",
+      "translation": "голова",
+      "example": "My head hurts.",
+      "category": "General English"
+    },
+    {
+      "word": "hear",
+      "translation": "слышать",
+      "example": "Can you hear music?",
+      "category": "General English"
+    },
+    {
+      "word": "help",
+      "translation": "помогать",
+      "example": "Please help your brother.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "holiday",
+      "translation": "каникулы",
+      "example": "We travel during the holiday.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "home",
+      "translation": "дом",
+      "example": "I am going home.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "hot",
+      "translation": "горячий",
+      "example": "The soup is hot.",
+      "category": "General English"
+    },
+    {
+      "word": "hour",
+      "translation": "час",
+      "example": "The lesson lasts an hour.",
+      "category": "General English"
+    },
+    {
+      "word": "hungry",
+      "translation": "голодный",
+      "example": "I am hungry after work.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "important",
+      "translation": "важный",
+      "example": "Sleep is important.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "inside",
+      "translation": "внутри",
+      "example": "Come inside the house.",
+      "category": "General English"
+    },
+    {
+      "word": "January",
+      "translation": "январь",
+      "example": "January is cold here.",
+      "category": "General English"
+    },
+    {
+      "word": "job",
+      "translation": "работа",
+      "example": "She has a new job.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "juice",
+      "translation": "сок",
+      "example": "He drinks orange juice.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "kind",
+      "translation": "добрый",
+      "example": "Our neighbor is kind.",
+      "category": "General English"
+    },
+    {
+      "word": "kitchen",
+      "translation": "кухня",
+      "example": "Mum is in the kitchen.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "know",
+      "translation": "знать",
+      "example": "I know the answer.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "large",
+      "translation": "большой",
+      "example": "They live in a large city.",
+      "category": "General English"
+    },
+    {
+      "word": "late",
+      "translation": "поздний",
+      "example": "Do not be late.",
+      "category": "General English"
+    },
+    {
+      "word": "left",
+      "translation": "левый",
+      "example": "Turn left at the lights.",
+      "category": "General English"
+    },
+    {
+      "word": "library",
+      "translation": "библиотека",
+      "example": "The library is quiet.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "light",
+      "translation": "свет",
+      "example": "Turn on the light.",
+      "category": "General English"
+    },
+    {
+      "word": "little",
+      "translation": "маленький",
+      "example": "A little bird is singing.",
+      "category": "General English"
+    },
+    {
+      "word": "long",
+      "translation": "длинный",
+      "example": "It was a long journey.",
+      "category": "General English"
+    },
+    {
+      "word": "look",
+      "translation": "смотреть",
+      "example": "Look at this picture.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "love",
+      "translation": "любить",
+      "example": "I love my family.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "lunch",
+      "translation": "обед",
+      "example": "Lunch starts at one.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "make",
+      "translation": "делать",
+      "example": "We make dinner together.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "map",
+      "translation": "карта",
+      "example": "Use the map to find the road.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "May",
+      "translation": "май",
+      "example": "May is a warm month.",
+      "category": "General English"
+    },
+    {
+      "word": "meet",
+      "translation": "встречать",
+      "example": "Let us meet tomorrow.",
+      "category": "General English"
+    },
+    {
+      "word": "milk",
+      "translation": "молоко",
+      "example": "The child drinks milk.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "minute",
+      "translation": "минута",
+      "example": "Wait one minute.",
+      "category": "General English"
+    },
+    {
+      "word": "money",
+      "translation": "деньги",
+      "example": "I need some money.",
+      "category": "General English"
+    },
+    {
+      "word": "month",
+      "translation": "месяц",
+      "example": "A month has many days.",
+      "category": "General English"
+    },
+    {
+      "word": "mother",
+      "translation": "мать",
+      "example": "My mother is a teacher.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "music",
+      "translation": "музыка",
+      "example": "I listen to music.",
+      "category": "General English"
+    },
+    {
+      "word": "name",
+      "translation": "имя",
+      "example": "What is your name?",
+      "category": "General English"
+    },
+    {
+      "word": "near",
+      "translation": "рядом",
+      "example": "The school is near my home.",
+      "category": "General English"
+    },
+    {
+      "word": "need",
+      "translation": "нуждаться",
+      "example": "We need more time.",
+      "category": "General English"
+    },
+    {
+      "word": "new",
+      "translation": "новый",
+      "example": "I bought a new phone.",
+      "category": "General English"
+    },
+    {
+      "word": "night",
+      "translation": "ночь",
+      "example": "The stars shine at night.",
+      "category": "General English"
+    },
+    {
+      "word": "nine",
+      "translation": "девять",
+      "example": "It is nine o'clock.",
+      "category": "General English"
+    },
+    {
+      "word": "old",
+      "translation": "старый",
+      "example": "This is an old photo.",
+      "category": "General English"
+    },
+    {
+      "word": "open",
+      "translation": "открывать",
+      "example": "Open your book.",
+      "category": "General English"
+    },
+    {
+      "word": "outside",
+      "translation": "снаружи",
+      "example": "The children are outside.",
+      "category": "General English"
+    },
+    {
+      "word": "paint",
+      "translation": "красить",
+      "example": "They paint the wall.",
+      "category": "General English"
+    },
+    {
+      "word": "paper",
+      "translation": "бумага",
+      "example": "Write on the paper.",
+      "category": "General English"
+    },
+    {
+      "word": "parent",
+      "translation": "родитель",
+      "example": "Every parent worries sometimes.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "park",
+      "translation": "парк",
+      "example": "We walk in the park.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "party",
+      "translation": "вечеринка",
+      "example": "The party starts at seven.",
+      "category": "General English"
+    },
+    {
+      "word": "people",
+      "translation": "люди",
+      "example": "Many people live here.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "picture",
+      "translation": "картина",
+      "example": "This picture is beautiful.",
+      "category": "General English"
+    },
+    {
+      "word": "place",
+      "translation": "место",
+      "example": "This is a quiet place.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "play",
+      "translation": "играть",
+      "example": "Children play outside.",
+      "category": "General English"
+    },
+    {
+      "word": "please",
+      "translation": "пожалуйста",
+      "example": "Please sit down.",
+      "category": "General English"
+    },
+    {
+      "word": "polite",
+      "translation": "вежливый",
+      "example": "He is always polite.",
+      "category": "General English"
+    },
+    {
+      "word": "question",
+      "translation": "вопрос",
+      "example": "Ask a question.",
+      "category": "General English"
+    },
+    {
+      "word": "quick",
+      "translation": "быстрый",
+      "example": "She gave a quick answer.",
+      "category": "General English"
+    },
+    {
+      "word": "read",
+      "translation": "читать",
+      "example": "I read before bed.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "red",
+      "translation": "красный",
+      "example": "The apple is red.",
+      "category": "General English"
+    },
+    {
+      "word": "remember",
+      "translation": "помнить",
+      "example": "Remember your homework.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "right",
+      "translation": "правый",
+      "example": "Turn right here.",
+      "category": "General English"
+    },
+    {
+      "word": "room",
+      "translation": "комната",
+      "example": "My room is bright.",
+      "category": "General English"
+    },
+    {
+      "word": "run",
+      "translation": "бегать",
+      "example": "I run in the morning.",
+      "category": "General English"
+    },
+    {
+      "word": "Saturday",
+      "translation": "суббота",
+      "example": "Saturday is relaxing.",
+      "category": "General English"
+    },
+    {
+      "word": "say",
+      "translation": "говорить",
+      "example": "Say your name clearly.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "sea",
+      "translation": "море",
+      "example": "We swim in the sea.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "seven",
+      "translation": "семь",
+      "example": "There are seven days.",
+      "category": "General English"
+    },
+    {
+      "word": "shop",
+      "translation": "магазин",
+      "example": "The shop closes at six.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "short",
+      "translation": "короткий",
+      "example": "It is a short story.",
+      "category": "General English"
+    },
+    {
+      "word": "sing",
+      "translation": "петь",
+      "example": "They sing in class.",
+      "category": "General English"
+    },
+    {
+      "word": "sister",
+      "translation": "сестра",
+      "example": "My sister likes art.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "sit",
+      "translation": "сидеть",
+      "example": "Please sit here.",
+      "category": "General English"
+    },
+    {
+      "word": "six",
+      "translation": "шесть",
+      "example": "I have six books.",
+      "category": "General English"
+    },
+    {
+      "word": "small",
+      "translation": "маленький",
+      "example": "The room is small.",
+      "category": "General English"
+    },
+    {
+      "word": "snow",
+      "translation": "снег",
+      "example": "Snow falls in winter.",
+      "category": "General English"
+    },
+    {
+      "word": "son",
+      "translation": "сын",
+      "example": "Their son is at school.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "speak",
+      "translation": "говорить",
+      "example": "Do you speak English?",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "spring",
+      "translation": "весна",
+      "example": "Flowers grow in spring.",
+      "category": "General English"
+    },
+    {
+      "word": "stand",
+      "translation": "стоять",
+      "example": "Please stand up.",
+      "category": "General English"
+    },
+    {
+      "word": "start",
+      "translation": "начинать",
+      "example": "The film starts soon.",
+      "category": "General English"
+    },
+    {
+      "word": "street",
+      "translation": "улица",
+      "example": "Our street is quiet.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "strong",
+      "translation": "сильный",
+      "example": "He is strong enough.",
+      "category": "General English"
+    },
+    {
+      "word": "summer",
+      "translation": "лето",
+      "example": "Summer is my favorite season.",
+      "category": "General English"
+    },
+    {
+      "word": "table",
+      "translation": "стол",
+      "example": "The keys are on the table.",
+      "category": "General English"
+    },
+    {
+      "word": "take",
+      "translation": "брать",
+      "example": "Take an umbrella.",
+      "category": "General English"
+    },
+    {
+      "word": "teacher",
+      "translation": "учитель",
+      "example": "Our teacher is helpful.",
+      "category": "General English"
+    },
+    {
+      "word": "tell",
+      "translation": "рассказывать",
+      "example": "Tell me the truth.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "ten",
+      "translation": "десять",
+      "example": "I counted ten coins.",
+      "category": "General English"
+    },
+    {
+      "word": "think",
+      "translation": "думать",
+      "example": "Think about the answer.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "Thursday",
+      "translation": "четверг",
+      "example": "The test is on Thursday.",
+      "category": "General English"
+    },
+    {
+      "word": "today",
+      "translation": "сегодня",
+      "example": "Today is sunny.",
+      "category": "General English"
+    },
+    {
+      "word": "together",
+      "translation": "вместе",
+      "example": "We work together.",
+      "category": "General English"
+    },
+    {
+      "word": "town",
+      "translation": "городок",
+      "example": "This town is friendly.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "train",
+      "translation": "поезд",
+      "example": "The train arrives soon.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "tree",
+      "translation": "дерево",
+      "example": "A bird sits in the tree.",
+      "category": "General English"
+    },
+    {
+      "word": "try",
+      "translation": "пробовать",
+      "example": "Try this exercise.",
+      "category": "General English"
+    },
+    {
+      "word": "Tuesday",
+      "translation": "вторник",
+      "example": "Tuesday follows Monday.",
+      "category": "General English"
+    },
+    {
+      "word": "under",
+      "translation": "под",
+      "example": "The cat is under the table.",
+      "category": "General English"
+    },
+    {
+      "word": "understand",
+      "translation": "понимать",
+      "example": "I understand the question.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "use",
+      "translation": "использовать",
+      "example": "Use a pencil.",
+      "category": "General English"
+    },
+    {
+      "word": "usually",
+      "translation": "обычно",
+      "example": "I usually walk home.",
+      "category": "General English"
+    },
+    {
+      "word": "visit",
+      "translation": "посещать",
+      "example": "We visit our grandparents.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "voice",
+      "translation": "голос",
+      "example": "Her voice is quiet.",
+      "category": "General English"
+    },
+    {
+      "word": "wait",
+      "translation": "ждать",
+      "example": "Wait for the bus.",
+      "category": "General English"
+    },
+    {
+      "word": "walk",
+      "translation": "ходить",
+      "example": "We walk every evening.",
+      "category": "General English"
+    },
+    {
+      "word": "want",
+      "translation": "хотеть",
+      "example": "I want some tea.",
+      "category": "General English"
+    },
+    {
+      "word": "warm",
+      "translation": "теплый",
+      "example": "The room is warm.",
+      "category": "General English"
+    },
+    {
+      "word": "wash",
+      "translation": "мыть",
+      "example": "Wash your hands.",
+      "category": "General English"
+    },
+    {
+      "word": "watch",
+      "translation": "смотреть",
+      "example": "We watch a film.",
+      "category": "General English"
+    },
+    {
+      "word": "week",
+      "translation": "неделя",
+      "example": "A week has seven days.",
+      "category": "General English"
+    },
+    {
+      "word": "Wednesday",
+      "translation": "среда",
+      "example": "Wednesday is busy.",
+      "category": "General English"
+    },
+    {
+      "word": "winter",
+      "translation": "зима",
+      "example": "Winter can be snowy.",
+      "category": "General English"
+    },
+    {
+      "word": "woman",
+      "translation": "женщина",
+      "example": "The woman is smiling.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "work",
+      "translation": "работать",
+      "example": "I work from home.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "write",
+      "translation": "писать",
+      "example": "Write your name.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "year",
+      "translation": "год",
+      "example": "This year feels short.",
+      "category": "General English"
+    },
+    {
+      "word": "yellow",
+      "translation": "желтый",
+      "example": "The flower is yellow.",
+      "category": "General English"
+    },
+    {
+      "word": "young",
+      "translation": "молодой",
+      "example": "He is young and curious.",
+      "category": "General English"
+    }
+  ],
+  "B1_B2": [
+    {
+      "word": "achieve",
+      "translation": "достигать",
+      "transcription": "[əˈtʃiːv]",
+      "example": "You can achieve all your goals with hard work.",
+      "category": "General English"
+    },
+    {
+      "word": "convenient",
+      "translation": "удобный",
+      "transcription": "[kənˈviːniənt]",
+      "example": "Online banking is very fast and convenient.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "decision",
+      "translation": "решение",
+      "transcription": "[dɪˈsɪʒn]",
+      "example": "Making the right decision requires critical thinking.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "environment",
+      "translation": "окружающая среда",
+      "transcription": "[ɪnˈvaɪrənmənt]",
+      "example": "We must take care of the environment.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "fluent",
+      "translation": "беглый / свободно говорящий",
+      "transcription": "[ˈfluːənt]",
+      "example": "She wants to become fluent in English.",
+      "category": "General English"
+    },
+    {
+      "word": "hesitate",
+      "translation": "колебаться / сомневаться",
+      "transcription": "[ˈhezɪteɪt]",
+      "example": "Do not hesitate to ask questions in class.",
+      "category": "General English"
+    },
+    {
+      "word": "opportunity",
+      "translation": "возможность",
+      "transcription": "[ˌɑːpərˈtuːnəti]",
+      "example": "Studying abroad is a great opportunity.",
+      "category": "General English"
+    },
+    {
+      "word": "improve",
+      "translation": "улучшать",
+      "transcription": "[ɪmˈpruːv]",
+      "example": "Regular practice will improve your listening skills.",
+      "category": "General English"
+    },
+    {
+      "word": "reliable",
+      "translation": "надежный",
+      "transcription": "[rɪˈlaɪəbl]",
+      "example": "He is a reliable teammate you can always count on.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "challenge",
+      "translation": "вызов / сложная задача",
+      "transcription": "[ˈtʃælɪndʒ]",
+      "example": "This project was a difficult challenge for us.",
+      "category": "General English"
+    },
+    {
+      "word": "encourage",
+      "translation": "поощрять / вдохновлять",
+      "transcription": "[ɪnˈkɜːrɪdʒ]",
+      "example": "Teachers always encourage students to read more.",
+      "category": "General English"
+    },
+    {
+      "word": "develop",
+      "translation": "развивать",
+      "transcription": "[dɪˈveləp]",
+      "example": "They plan to develop modern software applications.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "confident",
+      "translation": "уверенный",
+      "transcription": "[ˈkɑːnfɪdənt]",
+      "example": "He felt confident before giving his speech.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "experience",
+      "translation": "опыт",
+      "transcription": "[ɪkˈspɪriəns]",
+      "example": "Travelling gives you unforgettable life experience.",
+      "category": "General English"
+    },
+    {
+      "word": "solution",
+      "translation": "решение (проблемы)",
+      "transcription": "[səˈluːʃn]",
+      "example": "We need to find an effective solution quickly.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "ability",
+      "translation": "способность",
+      "example": "She has the ability to lead.",
+      "category": "General English"
+    },
+    {
+      "word": "absolute",
+      "translation": "абсолютный",
+      "example": "That is an absolute rule.",
+      "category": "General English"
+    },
+    {
+      "word": "accept",
+      "translation": "принимать",
+      "example": "We accept your offer.",
+      "category": "General English"
+    },
+    {
+      "word": "access",
+      "translation": "доступ",
+      "example": "Students have access to the library.",
+      "category": "General English"
+    },
+    {
+      "word": "accurate",
+      "translation": "точный",
+      "example": "The report is accurate.",
+      "category": "General English"
+    },
+    {
+      "word": "adapt",
+      "translation": "адаптироваться",
+      "example": "People adapt to change.",
+      "category": "General English"
+    },
+    {
+      "word": "advantage",
+      "translation": "преимущество",
+      "example": "Experience is an advantage.",
+      "category": "General English"
+    },
+    {
+      "word": "affect",
+      "translation": "влиять",
+      "example": "Stress can affect sleep.",
+      "category": "General English"
+    },
+    {
+      "word": "afford",
+      "translation": "позволить себе",
+      "example": "We cannot afford a new car.",
+      "category": "General English"
+    },
+    {
+      "word": "aim",
+      "translation": "цель",
+      "example": "Our aim is to improve quality.",
+      "category": "General English"
+    },
+    {
+      "word": "announce",
+      "translation": "объявлять",
+      "example": "They announce the result tomorrow.",
+      "category": "General English"
+    },
+    {
+      "word": "anxious",
+      "translation": "тревожный",
+      "example": "He felt anxious before the interview.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "appear",
+      "translation": "появляться",
+      "example": "A rainbow appeared after rain.",
+      "category": "General English"
+    },
+    {
+      "word": "approach",
+      "translation": "подход",
+      "example": "We need a new approach.",
+      "category": "General English"
+    },
+    {
+      "word": "argue",
+      "translation": "спорить",
+      "example": "They argue about money.",
+      "category": "General English"
+    },
+    {
+      "word": "arrange",
+      "translation": "организовывать",
+      "example": "I will arrange a meeting.",
+      "category": "General English"
+    },
+    {
+      "word": "assume",
+      "translation": "предполагать",
+      "example": "Do not assume the answer.",
+      "category": "General English"
+    },
+    {
+      "word": "atmosphere",
+      "translation": "атмосфера",
+      "example": "The cafe has a friendly atmosphere.",
+      "category": "General English"
+    },
+    {
+      "word": "attempt",
+      "translation": "попытка",
+      "example": "This is my first attempt.",
+      "category": "General English"
+    },
+    {
+      "word": "attend",
+      "translation": "посещать",
+      "example": "I attend an evening course.",
+      "category": "General English"
+    },
+    {
+      "word": "aware",
+      "translation": "осведомленный",
+      "example": "Are you aware of the risk?",
+      "category": "General English"
+    },
+    {
+      "word": "balance",
+      "translation": "баланс",
+      "example": "Work-life balance matters.",
+      "category": "General English"
+    },
+    {
+      "word": "behavior",
+      "translation": "поведение",
+      "example": "His behavior was polite.",
+      "category": "General English"
+    },
+    {
+      "word": "benefit",
+      "translation": "польза",
+      "example": "Exercise has many benefits.",
+      "category": "General English"
+    },
+    {
+      "word": "bother",
+      "translation": "беспокоить",
+      "example": "Sorry to bother you.",
+      "category": "General English"
+    },
+    {
+      "word": "budget",
+      "translation": "бюджет",
+      "example": "We have a limited budget.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "campaign",
+      "translation": "кампания",
+      "example": "The campaign raised awareness.",
+      "category": "General English"
+    },
+    {
+      "word": "capable",
+      "translation": "способный",
+      "example": "She is capable of success.",
+      "category": "General English"
+    },
+    {
+      "word": "career",
+      "translation": "карьера",
+      "example": "He started a career in design.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "cause",
+      "translation": "причина",
+      "example": "What caused the problem?",
+      "category": "General English"
+    },
+    {
+      "word": "certain",
+      "translation": "определенный",
+      "example": "I am certain about this.",
+      "category": "General English"
+    },
+    {
+      "word": "circumstance",
+      "translation": "обстоятельство",
+      "example": "We work under difficult circumstances.",
+      "category": "General English"
+    },
+    {
+      "word": "comment",
+      "translation": "комментарий",
+      "example": "She made a useful comment.",
+      "category": "General English"
+    },
+    {
+      "word": "commit",
+      "translation": "совершать",
+      "example": "They commit to the plan.",
+      "category": "General English"
+    },
+    {
+      "word": "community",
+      "translation": "сообщество",
+      "example": "The community supports the project.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "compare",
+      "translation": "сравнивать",
+      "example": "Compare the two results.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "complain",
+      "translation": "жаловаться",
+      "example": "Customers complain about delays.",
+      "category": "General English"
+    },
+    {
+      "word": "complex",
+      "translation": "сложный",
+      "example": "It is a complex issue.",
+      "category": "General English"
+    },
+    {
+      "word": "concentrate",
+      "translation": "сосредотачиваться",
+      "example": "Try to concentrate on the task.",
+      "category": "General English"
+    },
+    {
+      "word": "concern",
+      "translation": "беспокойство",
+      "example": "Safety is our main concern.",
+      "category": "General English"
+    },
+    {
+      "word": "conduct",
+      "translation": "проводить",
+      "example": "They conduct a survey.",
+      "category": "General English"
+    },
+    {
+      "word": "conflict",
+      "translation": "конфликт",
+      "example": "The meeting resolved the conflict.",
+      "category": "General English"
+    },
+    {
+      "word": "consequence",
+      "translation": "последствие",
+      "example": "Every choice has a consequence.",
+      "category": "General English"
+    },
+    {
+      "word": "consist",
+      "translation": "состоять",
+      "example": "The course consists of six units.",
+      "category": "General English"
+    },
+    {
+      "word": "consume",
+      "translation": "потреблять",
+      "example": "People consume less sugar now.",
+      "category": "General English"
+    },
+    {
+      "word": "contact",
+      "translation": "связываться",
+      "example": "Contact us by email.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "contribute",
+      "translation": "вносить вклад",
+      "example": "Everyone can contribute ideas.",
+      "category": "General English"
+    },
+    {
+      "word": "convenience",
+      "translation": "удобство",
+      "example": "Online access is a convenience.",
+      "category": "General English"
+    },
+    {
+      "word": "convince",
+      "translation": "убеждать",
+      "example": "Facts can convince readers.",
+      "category": "General English"
+    },
+    {
+      "word": "cooperate",
+      "translation": "сотрудничать",
+      "example": "Teams cooperate effectively.",
+      "category": "General English"
+    },
+    {
+      "word": "create",
+      "translation": "создавать",
+      "example": "Artists create new work.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "critical",
+      "translation": "критический",
+      "example": "Critical thinking is useful.",
+      "category": "General English"
+    },
+    {
+      "word": "curious",
+      "translation": "любопытный",
+      "example": "Children are naturally curious.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "decline",
+      "translation": "снижаться",
+      "example": "Sales began to decline.",
+      "category": "General English"
+    },
+    {
+      "word": "demand",
+      "translation": "спрос",
+      "example": "Demand for tickets is high.",
+      "category": "General English"
+    },
+    {
+      "word": "depend",
+      "translation": "зависеть",
+      "example": "Results depend on effort.",
+      "category": "General English"
+    },
+    {
+      "word": "despite",
+      "translation": "несмотря на",
+      "example": "Despite rain, we continued.",
+      "category": "General English"
+    },
+    {
+      "word": "detail",
+      "translation": "деталь",
+      "example": "Notice every detail.",
+      "category": "General English"
+    },
+    {
+      "word": "determine",
+      "translation": "определять",
+      "example": "Tests determine the level.",
+      "category": "General English"
+    },
+    {
+      "word": "display",
+      "translation": "отображать",
+      "example": "The screen displays a message.",
+      "category": "General English"
+    },
+    {
+      "word": "distance",
+      "translation": "расстояние",
+      "example": "The distance is ten kilometers.",
+      "category": "General English"
+    },
+    {
+      "word": "economic",
+      "translation": "экономический",
+      "example": "The country faces economic pressure.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "efficient",
+      "translation": "эффективный",
+      "example": "This method is efficient.",
+      "category": "General English"
+    },
+    {
+      "word": "enable",
+      "translation": "позволять",
+      "example": "The app enables quick payments.",
+      "category": "General English"
+    },
+    {
+      "word": "entire",
+      "translation": "весь",
+      "example": "I read the entire report.",
+      "category": "General English"
+    },
+    {
+      "word": "establish",
+      "translation": "устанавливать",
+      "example": "They establish clear rules.",
+      "category": "General English"
+    },
+    {
+      "word": "estimate",
+      "translation": "оценивать",
+      "example": "We estimate the cost.",
+      "category": "General English"
+    },
+    {
+      "word": "evidence",
+      "translation": "доказательство",
+      "example": "There is evidence of change.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "expand",
+      "translation": "расширять",
+      "example": "The company will expand abroad.",
+      "category": "General English"
+    },
+    {
+      "word": "expert",
+      "translation": "эксперт",
+      "example": "Ask an expert for advice.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "factor",
+      "translation": "фактор",
+      "example": "Cost is an important factor.",
+      "category": "General English"
+    },
+    {
+      "word": "feature",
+      "translation": "особенность",
+      "example": "The new feature saves time.",
+      "category": "Food & Daily Life"
+    },
+    {
+      "word": "focus",
+      "translation": "сосредоточиться",
+      "example": "Focus on the main idea.",
+      "category": "General English"
+    },
+    {
+      "word": "frequently",
+      "translation": "часто",
+      "example": "She frequently travels for work.",
+      "category": "General English"
+    },
+    {
+      "word": "fund",
+      "translation": "финансировать",
+      "example": "They fund local projects.",
+      "category": "General English"
+    },
+    {
+      "word": "generate",
+      "translation": "создавать",
+      "example": "Solar panels generate power.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "goal",
+      "translation": "цель",
+      "example": "Set a realistic goal.",
+      "category": "General English"
+    },
+    {
+      "word": "handle",
+      "translation": "справляться",
+      "example": "Can you handle this task?",
+      "category": "General English"
+    },
+    {
+      "word": "harm",
+      "translation": "вред",
+      "example": "Pollution can harm wildlife.",
+      "category": "General English"
+    },
+    {
+      "word": "highlight",
+      "translation": "выделять",
+      "example": "The report highlights risks.",
+      "category": "General English"
+    },
+    {
+      "word": "identify",
+      "translation": "определять",
+      "example": "We identify the main cause.",
+      "category": "General English"
+    },
+    {
+      "word": "ignore",
+      "translation": "игнорировать",
+      "example": "Do not ignore the warning.",
+      "category": "General English"
+    },
+    {
+      "word": "impact",
+      "translation": "влияние",
+      "example": "The decision had a big impact.",
+      "category": "General English"
+    },
+    {
+      "word": "include",
+      "translation": "включать",
+      "example": "The price includes breakfast.",
+      "category": "General English"
+    },
+    {
+      "word": "increase",
+      "translation": "увеличивать",
+      "example": "Prices may increase soon.",
+      "category": "General English"
+    },
+    {
+      "word": "independent",
+      "translation": "независимый",
+      "example": "She is an independent thinker.",
+      "category": "General English"
+    },
+    {
+      "word": "indicate",
+      "translation": "указывать",
+      "example": "The signs indicate danger.",
+      "category": "General English"
+    },
+    {
+      "word": "influence",
+      "translation": "влиять",
+      "example": "Music can influence mood.",
+      "category": "General English"
+    },
+    {
+      "word": "inform",
+      "translation": "информировать",
+      "example": "Please inform the team.",
+      "category": "General English"
+    },
+    {
+      "word": "insist",
+      "translation": "настаивать",
+      "example": "They insist on quality.",
+      "category": "General English"
+    },
+    {
+      "word": "intend",
+      "translation": "намереваться",
+      "example": "I intend to finish today.",
+      "category": "General English"
+    },
+    {
+      "word": "involve",
+      "translation": "вовлекать",
+      "example": "The project involves students.",
+      "category": "General English"
+    },
+    {
+      "word": "issue",
+      "translation": "проблема",
+      "example": "We discussed the issue.",
+      "category": "General English"
+    },
+    {
+      "word": "maintain",
+      "translation": "поддерживать",
+      "example": "Maintain a healthy routine.",
+      "category": "General English"
+    },
+    {
+      "word": "major",
+      "translation": "главный",
+      "example": "This is a major change.",
+      "category": "General English"
+    },
+    {
+      "word": "measure",
+      "translation": "измерять",
+      "example": "We measure progress weekly.",
+      "category": "General English"
+    },
+    {
+      "word": "mention",
+      "translation": "упоминать",
+      "example": "He mentioned your name.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "method",
+      "translation": "метод",
+      "example": "This method works well.",
+      "category": "General English"
+    },
+    {
+      "word": "minor",
+      "translation": "незначительный",
+      "example": "It was a minor mistake.",
+      "category": "General English"
+    },
+    {
+      "word": "motivate",
+      "translation": "мотивировать",
+      "example": "Goals motivate learners.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "negotiate",
+      "translation": "вести переговоры",
+      "example": "They negotiate a new contract.",
+      "category": "General English"
+    },
+    {
+      "word": "obtain",
+      "translation": "получать",
+      "example": "You can obtain permission online.",
+      "category": "General English"
+    },
+    {
+      "word": "occur",
+      "translation": "происходить",
+      "example": "The accident occurred at noon.",
+      "category": "General English"
+    },
+    {
+      "word": "participate",
+      "translation": "участвовать",
+      "example": "Everyone can participate.",
+      "category": "General English"
+    },
+    {
+      "word": "perform",
+      "translation": "выполнять",
+      "example": "The machine performs well.",
+      "category": "General English"
+    },
+    {
+      "word": "permit",
+      "translation": "разрешать",
+      "example": "Pets are not permitted.",
+      "category": "General English"
+    },
+    {
+      "word": "persuade",
+      "translation": "убеждать",
+      "example": "She persuaded me to stay.",
+      "category": "General English"
+    },
+    {
+      "word": "policy",
+      "translation": "политика",
+      "example": "Read the privacy policy.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "potential",
+      "translation": "потенциал",
+      "example": "This idea has potential.",
+      "category": "General English"
+    },
+    {
+      "word": "predict",
+      "translation": "предсказывать",
+      "example": "Experts predict growth.",
+      "category": "General English"
+    },
+    {
+      "word": "prevent",
+      "translation": "предотвращать",
+      "example": "Masks prevent infection.",
+      "category": "General English"
+    },
+    {
+      "word": "previous",
+      "translation": "предыдущий",
+      "example": "Check the previous page.",
+      "category": "General English"
+    },
+    {
+      "word": "primary",
+      "translation": "основной",
+      "example": "Safety is the primary concern.",
+      "category": "General English"
+    },
+    {
+      "word": "process",
+      "translation": "процесс",
+      "example": "Learning is a long process.",
+      "category": "General English"
+    },
+    {
+      "word": "produce",
+      "translation": "производить",
+      "example": "The farm produces fruit.",
+      "category": "General English"
+    },
+    {
+      "word": "promote",
+      "translation": "продвигать",
+      "example": "The campaign promotes reading.",
+      "category": "General English"
+    },
+    {
+      "word": "propose",
+      "translation": "предлагать",
+      "example": "I propose a different plan.",
+      "category": "General English"
+    },
+    {
+      "word": "provide",
+      "translation": "предоставлять",
+      "example": "The hotel provides breakfast.",
+      "category": "General English"
+    },
+    {
+      "word": "publish",
+      "translation": "публиковать",
+      "example": "They publish research online.",
+      "category": "General English"
+    },
+    {
+      "word": "purpose",
+      "translation": "цель",
+      "example": "What is the purpose of this tool?",
+      "category": "General English"
+    },
+    {
+      "word": "react",
+      "translation": "реагировать",
+      "example": "People react differently.",
+      "category": "General English"
+    },
+    {
+      "word": "reduce",
+      "translation": "уменьшать",
+      "example": "We must reduce waste.",
+      "category": "General English"
+    },
+    {
+      "word": "region",
+      "translation": "регион",
+      "example": "The region is famous for wine.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "require",
+      "translation": "требовать",
+      "example": "This job requires patience.",
+      "category": "General English"
+    },
+    {
+      "word": "research",
+      "translation": "исследование",
+      "example": "The research supports our idea.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "respond",
+      "translation": "отвечать",
+      "example": "Please respond soon.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "retain",
+      "translation": "сохранять",
+      "example": "Exercise helps retain focus.",
+      "category": "General English"
+    },
+    {
+      "word": "reveal",
+      "translation": "раскрывать",
+      "example": "The report reveals a problem.",
+      "category": "General English"
+    },
+    {
+      "word": "route",
+      "translation": "маршрут",
+      "example": "This route is shorter.",
+      "category": "Travel & Places"
+    },
+    {
+      "word": "secure",
+      "translation": "безопасный",
+      "example": "Use a secure password.",
+      "category": "General English"
+    },
+    {
+      "word": "select",
+      "translation": "выбирать",
+      "example": "Select the best option.",
+      "category": "General English"
+    },
+    {
+      "word": "significant",
+      "translation": "значительный",
+      "example": "There was a significant improvement.",
+      "category": "General English"
+    },
+    {
+      "word": "similar",
+      "translation": "похожий",
+      "example": "The results are similar.",
+      "category": "General English"
+    },
+    {
+      "word": "source",
+      "translation": "источник",
+      "example": "Check the original source.",
+      "category": "General English"
+    },
+    {
+      "word": "specific",
+      "translation": "конкретный",
+      "example": "Give a specific example.",
+      "category": "General English"
+    },
+    {
+      "word": "strategy",
+      "translation": "стратегия",
+      "example": "We need a clear strategy.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "sufficient",
+      "translation": "достаточный",
+      "example": "The evidence is sufficient.",
+      "category": "General English"
+    },
+    {
+      "word": "target",
+      "translation": "цель",
+      "example": "The campaign targets young adults.",
+      "category": "Work & Business"
+    },
+    {
+      "word": "temporary",
+      "translation": "временный",
+      "example": "This is a temporary solution.",
+      "category": "General English"
+    },
+    {
+      "word": "theory",
+      "translation": "теория",
+      "example": "The theory explains the result.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "transfer",
+      "translation": "переносить",
+      "example": "Transfer the file securely.",
+      "category": "General English"
+    },
+    {
+      "word": "trend",
+      "translation": "тенденция",
+      "example": "The trend is positive.",
+      "category": "General English"
+    },
+    {
+      "word": "typical",
+      "translation": "типичный",
+      "example": "That is a typical example.",
+      "category": "General English"
+    },
+    {
+      "word": "unique",
+      "translation": "уникальный",
+      "example": "Each person is unique.",
+      "category": "General English"
+    },
+    {
+      "word": "update",
+      "translation": "обновлять",
+      "example": "Update the application.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "variety",
+      "translation": "разнообразие",
+      "example": "The shop offers variety.",
+      "category": "General English"
+    },
+    {
+      "word": "version",
+      "translation": "версия",
+      "example": "Install the latest version.",
+      "category": "General English"
+    },
+    {
+      "word": "volunteer",
+      "translation": "волонтер",
+      "example": "She volunteers at a shelter.",
+      "category": "General English"
+    },
+    {
+      "word": "willing",
+      "translation": "готовый",
+      "example": "He is willing to help.",
+      "category": "General English"
+    },
+    {
+      "word": "withdraw",
+      "translation": "снимать",
+      "example": "You can withdraw cash here.",
+      "category": "General English"
+    },
+    {
+      "word": "wonder",
+      "translation": "интересоваться",
+      "example": "I wonder what happened.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "worth",
+      "translation": "стоящий",
+      "example": "The book is worth reading.",
+      "category": "General English"
+    }
+  ],
+  "C1_C2": [
+    {
+      "word": "ubiquitous",
+      "translation": "вездесущий / повсеместный",
+      "transcription": "[juːˈbɪkwɪtəs]",
+      "example": "Smartphones have become ubiquitous in modern society.",
+      "category": "General English"
+    },
+    {
+      "word": "articulate",
+      "translation": "четко формулирующий / красноречивый",
+      "transcription": "[ɑːrˈtɪkjuleɪt]",
+      "example": "She is an articulate speaker who expresses ideas clearly.",
+      "category": "General English"
+    },
+    {
+      "word": "meticulous",
+      "translation": "дотошный / педантичный",
+      "transcription": "[məˈtɪkjələs]",
+      "example": "He did meticulous research before writing the report.",
+      "category": "General English"
+    },
+    {
+      "word": "ephemeral",
+      "translation": "мимолетный / недолговечный",
+      "transcription": "[ɪˈfemərəl]",
+      "example": "Fame in social media is often ephemeral.",
+      "category": "General English"
+    },
+    {
+      "word": "resilient",
+      "translation": "стойкий / жизнеспособный",
+      "transcription": "[rɪˈzɪliənt]",
+      "example": "Resilient individuals recover quickly from difficulties.",
+      "category": "General English"
+    },
+    {
+      "word": "scrutinize",
+      "translation": "тщательно исследовать",
+      "transcription": "[ˈskruːtənaɪz]",
+      "example": "Auditors will scrutinize every financial transaction.",
+      "category": "General English"
+    },
+    {
+      "word": "superfluous",
+      "translation": "излишний / чрезмерный",
+      "transcription": "[sʊˈpɜːrfluəs]",
+      "example": "Avoid superfluous words to make your writing concise.",
+      "category": "General English"
+    },
+    {
+      "word": "ambiguous",
+      "translation": "двусмысленный / неоднозначный",
+      "transcription": "[æmˈbɪɡjuəs]",
+      "example": "The phrasing in the contract was dangerously ambiguous.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "pragmatic",
+      "translation": "прагматичный / практичный",
+      "transcription": "[præɡˈmætɪk]",
+      "example": "We adopted a pragmatic approach to solving the crisis.",
+      "category": "General English"
+    },
+    {
+      "word": "eloquent",
+      "translation": "красноречивый",
+      "transcription": "[ˈeləkwənt]",
+      "example": "His eloquent speech moved everyone in the auditorium.",
+      "category": "General English"
+    },
+    {
+      "word": "exacerbate",
+      "translation": "усугублять / обострять",
+      "transcription": "[ɪɡˈzæsərbeɪt]",
+      "example": "Panic will only exacerbate an already bad situation.",
+      "category": "General English"
+    },
+    {
+      "word": "profound",
+      "translation": "глубокий / основательный",
+      "transcription": "[prəˈfaʊnd]",
+      "example": "The scientific discovery had a profound effect on medicine.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "tenacious",
+      "translation": "упорный / цепкий",
+      "transcription": "[təˈneɪʃəs]",
+      "example": "Her tenacious effort led to remarkable success.",
+      "category": "General English"
+    },
+    {
+      "word": "inevitable",
+      "translation": "неизбежный",
+      "transcription": "[ɪnˈevɪtəbl]",
+      "example": "Technological change in our world is inevitable.",
+      "category": "General English"
+    },
+    {
+      "word": "lucid",
+      "translation": "ясный / понятный",
+      "transcription": "[ˈluːsɪd]",
+      "example": "The professor gave a lucid explanation of quantum physics.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "abundant",
+      "translation": "обильный",
+      "example": "The region has abundant natural resources.",
+      "category": "General English"
+    },
+    {
+      "word": "accelerate",
+      "translation": "ускорять",
+      "example": "Technology can accelerate change.",
+      "category": "General English"
+    },
+    {
+      "word": "accommodate",
+      "translation": "приспосабливать",
+      "example": "The plan can accommodate different needs.",
+      "category": "General English"
+    },
+    {
+      "word": "acknowledge",
+      "translation": "признавать",
+      "example": "We acknowledge the difficulty.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "acquire",
+      "translation": "приобретать",
+      "example": "Students acquire skills through practice.",
+      "category": "General English"
+    },
+    {
+      "word": "advocate",
+      "translation": "выступать за",
+      "example": "They advocate equal access.",
+      "category": "General English"
+    },
+    {
+      "word": "alleviate",
+      "translation": "облегчать",
+      "example": "The medicine alleviates pain.",
+      "category": "General English"
+    },
+    {
+      "word": "allocate",
+      "translation": "распределять",
+      "example": "We allocate funds fairly.",
+      "category": "General English"
+    },
+    {
+      "word": "analogy",
+      "translation": "аналогия",
+      "example": "The teacher used an analogy.",
+      "category": "General English"
+    },
+    {
+      "word": "anticipate",
+      "translation": "предвидеть",
+      "example": "We anticipate higher demand.",
+      "category": "General English"
+    },
+    {
+      "word": "apparent",
+      "translation": "очевидный",
+      "example": "The cause became apparent.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "arbitrary",
+      "translation": "произвольный",
+      "example": "The decision seemed arbitrary.",
+      "category": "General English"
+    },
+    {
+      "word": "artificial",
+      "translation": "искусственный",
+      "example": "Artificial light filled the room.",
+      "category": "Technology & Science"
+    },
+    {
+      "word": "assert",
+      "translation": "утверждать",
+      "example": "The study asserts a clear link.",
+      "category": "General English"
+    },
+    {
+      "word": "authentic",
+      "translation": "подлинный",
+      "example": "This is an authentic document.",
+      "category": "General English"
+    },
+    {
+      "word": "bias",
+      "translation": "предвзятость",
+      "example": "The survey may contain bias.",
+      "category": "General English"
+    },
+    {
+      "word": "coherent",
+      "translation": "связный",
+      "example": "She gave a coherent argument.",
+      "category": "General English"
+    },
+    {
+      "word": "coincide",
+      "translation": "совпадать",
+      "example": "The dates coincide.",
+      "category": "General English"
+    },
+    {
+      "word": "compelling",
+      "translation": "убедительный",
+      "example": "He presented compelling evidence.",
+      "category": "General English"
+    },
+    {
+      "word": "comprehensive",
+      "translation": "всесторонний",
+      "example": "The report is comprehensive.",
+      "category": "General English"
+    },
+    {
+      "word": "conceive",
+      "translation": "представлять",
+      "example": "It is hard to conceive the scale.",
+      "category": "General English"
+    },
+    {
+      "word": "concede",
+      "translation": "признавать",
+      "example": "She conceded that he was right.",
+      "category": "General English"
+    },
+    {
+      "word": "concurrent",
+      "translation": "одновременный",
+      "example": "Concurrent events caused delays.",
+      "category": "General English"
+    },
+    {
+      "word": "contradict",
+      "translation": "противоречить",
+      "example": "The results contradict expectations.",
+      "category": "General English"
+    },
+    {
+      "word": "controversial",
+      "translation": "спорный",
+      "example": "The proposal is controversial.",
+      "category": "General English"
+    },
+    {
+      "word": "conventional",
+      "translation": "традиционный",
+      "example": "They rejected conventional methods.",
+      "category": "General English"
+    },
+    {
+      "word": "correlate",
+      "translation": "соотноситься",
+      "example": "The factors correlate strongly.",
+      "category": "General English"
+    },
+    {
+      "word": "credible",
+      "translation": "достоверный",
+      "example": "The witness was credible.",
+      "category": "General English"
+    },
+    {
+      "word": "criterion",
+      "translation": "критерий",
+      "example": "Cost is one criterion.",
+      "category": "General English"
+    },
+    {
+      "word": "cumulative",
+      "translation": "накопительный",
+      "example": "The cumulative effect was large.",
+      "category": "General English"
+    },
+    {
+      "word": "deduce",
+      "translation": "выводить",
+      "example": "We can deduce the answer.",
+      "category": "General English"
+    },
+    {
+      "word": "definitive",
+      "translation": "окончательный",
+      "example": "There is no definitive proof.",
+      "category": "General English"
+    },
+    {
+      "word": "deteriorate",
+      "translation": "ухудшаться",
+      "example": "Conditions began to deteriorate.",
+      "category": "General English"
+    },
+    {
+      "word": "differentiate",
+      "translation": "различать",
+      "example": "The test differentiates skill levels.",
+      "category": "General English"
+    },
+    {
+      "word": "diminish",
+      "translation": "уменьшать",
+      "example": "The noise gradually diminished.",
+      "category": "General English"
+    },
+    {
+      "word": "discrete",
+      "translation": "отдельный",
+      "example": "The data has discrete categories.",
+      "category": "General English"
+    },
+    {
+      "word": "disseminate",
+      "translation": "распространять",
+      "example": "The institute disseminates research.",
+      "category": "General English"
+    },
+    {
+      "word": "diverse",
+      "translation": "разнообразный",
+      "example": "The city has a diverse population.",
+      "category": "General English"
+    },
+    {
+      "word": "dominate",
+      "translation": "доминировать",
+      "example": "One company dominates the market.",
+      "category": "General English"
+    },
+    {
+      "word": "drastic",
+      "translation": "радикальный",
+      "example": "The crisis needs drastic action.",
+      "category": "General English"
+    },
+    {
+      "word": "elaborate",
+      "translation": "подробный",
+      "example": "She gave an elaborate explanation.",
+      "category": "General English"
+    },
+    {
+      "word": "empirical",
+      "translation": "эмпирический",
+      "example": "The claim lacks empirical support.",
+      "category": "General English"
+    },
+    {
+      "word": "enhance",
+      "translation": "улучшать",
+      "example": "Music can enhance concentration.",
+      "category": "General English"
+    },
+    {
+      "word": "equivalent",
+      "translation": "эквивалентный",
+      "example": "The two terms are equivalent.",
+      "category": "General English"
+    },
+    {
+      "word": "ethical",
+      "translation": "этический",
+      "example": "We need an ethical solution.",
+      "category": "General English"
+    },
+    {
+      "word": "exceed",
+      "translation": "превышать",
+      "example": "Costs exceed our budget.",
+      "category": "General English"
+    },
+    {
+      "word": "explicit",
+      "translation": "явный",
+      "example": "The instructions are explicit.",
+      "category": "General English"
+    },
+    {
+      "word": "facilitate",
+      "translation": "облегчать",
+      "example": "The tool facilitates collaboration.",
+      "category": "General English"
+    },
+    {
+      "word": "feasible",
+      "translation": "осуществимый",
+      "example": "The plan is financially feasible.",
+      "category": "General English"
+    },
+    {
+      "word": "fluctuate",
+      "translation": "колебаться",
+      "example": "Prices fluctuate daily.",
+      "category": "General English"
+    },
+    {
+      "word": "formulate",
+      "translation": "формулировать",
+      "example": "They formulate a new policy.",
+      "category": "General English"
+    },
+    {
+      "word": "fundamental",
+      "translation": "основополагающий",
+      "example": "Trust is fundamental to teamwork.",
+      "category": "General English"
+    },
+    {
+      "word": "hierarchy",
+      "translation": "иерархия",
+      "example": "The organization has a clear hierarchy.",
+      "category": "General English"
+    },
+    {
+      "word": "hypothesis",
+      "translation": "гипотеза",
+      "example": "The experiment tests a hypothesis.",
+      "category": "General English"
+    },
+    {
+      "word": "implicit",
+      "translation": "неявный",
+      "example": "The message contains an implicit warning.",
+      "category": "General English"
+    },
+    {
+      "word": "incentive",
+      "translation": "стимул",
+      "example": "A bonus is a useful incentive.",
+      "category": "General English"
+    },
+    {
+      "word": "inherent",
+      "translation": "присущий",
+      "example": "Risk is inherent in innovation.",
+      "category": "General English"
+    },
+    {
+      "word": "innovative",
+      "translation": "инновационный",
+      "example": "They designed an innovative product.",
+      "category": "General English"
+    },
+    {
+      "word": "integrate",
+      "translation": "интегрировать",
+      "example": "We integrate new data.",
+      "category": "General English"
+    },
+    {
+      "word": "intensive",
+      "translation": "интенсивный",
+      "example": "The course is intensive.",
+      "category": "General English"
+    },
+    {
+      "word": "intrinsic",
+      "translation": "внутренний",
+      "example": "Curiosity has intrinsic value.",
+      "category": "General English"
+    },
+    {
+      "word": "justify",
+      "translation": "оправдывать",
+      "example": "Can you justify the expense?",
+      "category": "General English"
+    },
+    {
+      "word": "legitimate",
+      "translation": "законный",
+      "example": "That is a legitimate concern.",
+      "category": "General English"
+    },
+    {
+      "word": "manipulate",
+      "translation": "манипулировать",
+      "example": "Numbers can manipulate perception.",
+      "category": "General English"
+    },
+    {
+      "word": "maximize",
+      "translation": "максимизировать",
+      "example": "We maximize available space.",
+      "category": "General English"
+    },
+    {
+      "word": "mediate",
+      "translation": "посредничать",
+      "example": "A lawyer mediated the dispute.",
+      "category": "General English"
+    },
+    {
+      "word": "minimal",
+      "translation": "минимальный",
+      "example": "The risk is minimal.",
+      "category": "General English"
+    },
+    {
+      "word": "modify",
+      "translation": "изменять",
+      "example": "We modify the design.",
+      "category": "General English"
+    },
+    {
+      "word": "notion",
+      "translation": "представление",
+      "example": "The notion is widely accepted.",
+      "category": "General English"
+    },
+    {
+      "word": "objective",
+      "translation": "объективный",
+      "example": "Try to remain objective.",
+      "category": "General English"
+    },
+    {
+      "word": "paradox",
+      "translation": "парадокс",
+      "example": "The result presents a paradox.",
+      "category": "General English"
+    },
+    {
+      "word": "persistent",
+      "translation": "настойчивый",
+      "example": "Persistent effort brings results.",
+      "category": "General English"
+    },
+    {
+      "word": "plausible",
+      "translation": "правдоподобный",
+      "example": "That explanation is plausible.",
+      "category": "General English"
+    },
+    {
+      "word": "precede",
+      "translation": "предшествовать",
+      "example": "A short introduction precedes the text.",
+      "category": "General English"
+    },
+    {
+      "word": "predominant",
+      "translation": "преобладающий",
+      "example": "The predominant view changed.",
+      "category": "General English"
+    },
+    {
+      "word": "preliminary",
+      "translation": "предварительный",
+      "example": "These are preliminary findings.",
+      "category": "General English"
+    },
+    {
+      "word": "presume",
+      "translation": "предполагать",
+      "example": "We presume the data is correct.",
+      "category": "General English"
+    },
+    {
+      "word": "profoundly",
+      "translation": "глубоко",
+      "example": "The event profoundly affected her.",
+      "category": "Emotions & Mind"
+    },
+    {
+      "word": "proportion",
+      "translation": "пропорция",
+      "example": "A large proportion agreed.",
+      "category": "General English"
+    },
+    {
+      "word": "rational",
+      "translation": "рациональный",
+      "example": "We need a rational decision.",
+      "category": "General English"
+    },
+    {
+      "word": "refine",
+      "translation": "совершенствовать",
+      "example": "Researchers refine the model.",
+      "category": "General English"
+    },
+    {
+      "word": "reluctant",
+      "translation": "неохотный",
+      "example": "He was reluctant to speak.",
+      "category": "General English"
+    },
+    {
+      "word": "relevant",
+      "translation": "релевантный",
+      "example": "Include only relevant details.",
+      "category": "General English"
+    },
+    {
+      "word": "reproduce",
+      "translation": "воспроизводить",
+      "example": "The result is difficult to reproduce.",
+      "category": "General English"
+    },
+    {
+      "word": "rigid",
+      "translation": "жесткий",
+      "example": "The rules are too rigid.",
+      "category": "General English"
+    },
+    {
+      "word": "robust",
+      "translation": "надежный",
+      "example": "The system is robust.",
+      "category": "General English"
+    },
+    {
+      "word": "sceptical",
+      "translation": "скептически настроенный",
+      "example": "She remained sceptical of the claim.",
+      "category": "General English"
+    },
+    {
+      "word": "simultaneous",
+      "translation": "одновременный",
+      "example": "The broadcasts were simultaneous.",
+      "category": "General English"
+    },
+    {
+      "word": "solely",
+      "translation": "исключительно",
+      "example": "The choice was not based solely on cost.",
+      "category": "General English"
+    },
+    {
+      "word": "subsequent",
+      "translation": "последующий",
+      "example": "Subsequent research confirmed it.",
+      "category": "General English"
+    },
+    {
+      "word": "subtle",
+      "translation": "тонкий",
+      "example": "There was a subtle difference.",
+      "category": "General English"
+    },
+    {
+      "word": "sustain",
+      "translation": "поддерживать",
+      "example": "The project must sustain growth.",
+      "category": "General English"
+    },
+    {
+      "word": "tangible",
+      "translation": "осязаемый",
+      "example": "The plan produced tangible benefits.",
+      "category": "General English"
+    },
+    {
+      "word": "thorough",
+      "translation": "тщательный",
+      "example": "She made a thorough review.",
+      "category": "General English"
+    },
+    {
+      "word": "transparent",
+      "translation": "прозрачный",
+      "example": "The process should be transparent.",
+      "category": "People & Relationships"
+    },
+    {
+      "word": "underlying",
+      "translation": "лежащий в основе",
+      "example": "Find the underlying cause.",
+      "category": "General English"
+    },
+    {
+      "word": "unprecedented",
+      "translation": "беспрецедентный",
+      "example": "The crisis was unprecedented.",
+      "category": "General English"
+    },
+    {
+      "word": "validate",
+      "translation": "подтверждать",
+      "example": "Tests validate the theory.",
+      "category": "General English"
+    },
+    {
+      "word": "versatile",
+      "translation": "универсальный",
+      "example": "This tool is versatile.",
+      "category": "General English"
+    },
+    {
+      "word": "vulnerable",
+      "translation": "уязвимый",
+      "example": "Small systems are vulnerable.",
+      "category": "General English"
+    },
+    {
+      "word": "widespread",
+      "translation": "широко распространенный",
+      "example": "The practice is widespread.",
+      "category": "Actions & Communication"
+    },
+    {
+      "word": "withstand",
+      "translation": "выдерживать",
+      "example": "The bridge can withstand storms.",
+      "category": "General English"
+    },
+    {
+      "word": "yield",
+      "translation": "давать результат",
+      "example": "The method yields better results.",
+      "category": "General English"
+    },
+    {
+      "word": "ambivalence",
+      "translation": "двойственное отношение",
+      "example": "She felt ambivalence about the offer.",
+      "category": "General English"
+    },
+    {
+      "word": "brevity",
+      "translation": "краткость",
+      "example": "Brevity improves the message.",
+      "category": "General English"
+    },
+    {
+      "word": "connotation",
+      "translation": "подтекст",
+      "example": "The word has a negative connotation.",
+      "category": "General English"
+    },
+    {
+      "word": "deviate",
+      "translation": "отклоняться",
+      "example": "Do not deviate from the plan.",
+      "category": "General English"
+    },
+    {
+      "word": "discrepancy",
+      "translation": "несоответствие",
+      "example": "We found a discrepancy in the figures.",
+      "category": "General English"
+    },
+    {
+      "word": "extrapolate",
+      "translation": "экстраполировать",
+      "example": "It is risky to extrapolate from one case.",
+      "category": "General English"
+    },
+    {
+      "word": "fallacy",
+      "translation": "ошибка мышления",
+      "example": "The argument contains a fallacy.",
+      "category": "General English"
+    },
+    {
+      "word": "inconsistency",
+      "translation": "непоследовательность",
+      "example": "The data shows an inconsistency.",
+      "category": "General English"
+    },
+    {
+      "word": "intricate",
+      "translation": "сложный",
+      "example": "The machine has an intricate design.",
+      "category": "General English"
+    },
+    {
+      "word": "nuance",
+      "translation": "нюанс",
+      "example": "The translation misses a nuance.",
+      "category": "General English"
+    },
+    {
+      "word": "obsolete",
+      "translation": "устаревший",
+      "example": "The software is obsolete.",
+      "category": "General English"
+    },
+    {
+      "word": "proponent",
+      "translation": "сторонник",
+      "example": "She is a proponent of reform.",
+      "category": "General English"
+    },
+    {
+      "word": "scrupulous",
+      "translation": "добросовестный",
+      "example": "He is scrupulous about evidence.",
+      "category": "General English"
+    },
+    {
+      "word": "speculate",
+      "translation": "предполагать",
+      "example": "Analysts speculate about the future.",
+      "category": "General English"
+    },
+    {
+      "word": "unilateral",
+      "translation": "односторонний",
+      "example": "They made a unilateral decision.",
+      "category": "General English"
+    },
+    {
+      "word": "viable",
+      "translation": "жизнеспособный",
+      "example": "We need a viable alternative.",
+      "category": "General English"
+    },
+    {
+      "word": "volatile",
+      "translation": "нестабильный",
+      "example": "The market remains volatile.",
+      "category": "General English"
+    }
+  ],
+  "tasks": {
+    "A1_A2": [
+      {
+        "id": 1,
+        "sentence": "I want to ___ an apple for breakfast.",
+        "options": [
+          "eat",
+          "fly",
+          "sleep"
+        ],
+        "correct": "eat"
+      },
+      {
+        "id": 2,
+        "sentence": "She borrowed an interesting ___ from the library.",
+        "options": [
+          "book",
+          "bottle",
+          "sky"
+        ],
+        "correct": "book"
+      },
+      {
+        "id": 3,
+        "sentence": "Drink clean ___ every day.",
+        "options": [
+          "water",
+          "stone",
+          "paper"
+        ],
+        "correct": "water"
+      },
+      {
+        "id": 4,
+        "sentence": "Alex is my best ___; we support each other.",
+        "options": [
+          "friend",
+          "car",
+          "cloud"
+        ],
+        "correct": "friend"
+      },
+      {
+        "id": 5,
+        "sentence": "They live in a small ___ near the park.",
+        "options": [
+          "house",
+          "river",
+          "breakfast"
+        ],
+        "correct": "house"
+      },
+      {
+        "id": 6,
+        "sentence": "We ___ English together every evening.",
+        "options": [
+          "learn",
+          "sleep",
+          "close"
+        ],
+        "correct": "learn"
+      },
+      {
+        "id": 7,
+        "sentence": "The children were very ___ at the party.",
+        "options": [
+          "happy",
+          "wooden",
+          "thirsty"
+        ],
+        "correct": "happy"
+      },
+      {
+        "id": 8,
+        "sentence": "I spend weekends with my ___.",
+        "options": [
+          "family",
+          "weather",
+          "city"
+        ],
+        "correct": "family"
+      },
+      {
+        "id": 9,
+        "sentence": "They love to ___ around the world.",
+        "options": [
+          "travel",
+          "listen",
+          "drink"
+        ],
+        "correct": "travel"
+      },
+      {
+        "id": 10,
+        "sentence": "The ___ air is cool and quiet.",
+        "options": [
+          "morning",
+          "friend",
+          "school"
+        ],
+        "correct": "morning"
+      },
+      {
+        "id": 11,
+        "sentence": "He walks to ___ with his classmates.",
+        "options": [
+          "school",
+          "water",
+          "weather"
+        ],
+        "correct": "school"
+      },
+      {
+        "id": 12,
+        "sentence": "New York is a lively ___.",
+        "options": [
+          "city",
+          "book",
+          "friend"
+        ],
+        "correct": "city"
+      },
+      {
+        "id": 13,
+        "sentence": "We have ___ together at eight o'clock.",
+        "options": [
+          "breakfast",
+          "weather",
+          "travel"
+        ],
+        "correct": "breakfast"
+      },
+      {
+        "id": 14,
+        "sentence": "The ___ is warm and sunny today.",
+        "options": [
+          "weather",
+          "family",
+          "house"
+        ],
+        "correct": "weather"
+      },
+      {
+        "id": 15,
+        "sentence": "Please ___ carefully to the teacher.",
+        "options": [
+          "listen",
+          "achieve",
+          "travel"
+        ],
+        "correct": "listen"
+      }
+    ],
+    "B1_B2": [
+      {
+        "id": 1,
+        "sentence": "With practice, you can ___ your goals.",
+        "options": [
+          "achieve",
+          "hesitate",
+          "borrow"
+        ],
+        "correct": "achieve"
+      },
+      {
+        "id": 2,
+        "sentence": "Online banking is fast and ___.",
+        "options": [
+          "convenient",
+          "fluent",
+          "meticulous"
+        ],
+        "correct": "convenient"
+      },
+      {
+        "id": 3,
+        "sentence": "After careful thought, she made an important ___.",
+        "options": [
+          "decision",
+          "environment",
+          "challenge"
+        ],
+        "correct": "decision"
+      },
+      {
+        "id": 4,
+        "sentence": "We must protect the natural ___.",
+        "options": [
+          "environment",
+          "opportunity",
+          "solution"
+        ],
+        "correct": "environment"
+      },
+      {
+        "id": 5,
+        "sentence": "He speaks English so well that he sounds ___.",
+        "options": [
+          "fluent",
+          "reliable",
+          "convenient"
+        ],
+        "correct": "fluent"
+      },
+      {
+        "id": 6,
+        "sentence": "Do not ___ to ask for help.",
+        "options": [
+          "hesitate",
+          "develop",
+          "improve"
+        ],
+        "correct": "hesitate"
+      },
+      {
+        "id": 7,
+        "sentence": "This internship is a great ___ to learn.",
+        "options": [
+          "opportunity",
+          "decision",
+          "challenge"
+        ],
+        "correct": "opportunity"
+      },
+      {
+        "id": 8,
+        "sentence": "Regular reading will ___ your vocabulary.",
+        "options": [
+          "improve",
+          "achieve",
+          "hesitate"
+        ],
+        "correct": "improve"
+      },
+      {
+        "id": 9,
+        "sentence": "She is a ___ teammate who keeps her promises.",
+        "options": [
+          "reliable",
+          "convenient",
+          "confident"
+        ],
+        "correct": "reliable"
+      },
+      {
+        "id": 10,
+        "sentence": "Solving this puzzle was a real ___.",
+        "options": [
+          "challenge",
+          "decision",
+          "experience"
+        ],
+        "correct": "challenge"
+      },
+      {
+        "id": 11,
+        "sentence": "Good teachers ___ students to ask questions.",
+        "options": [
+          "encourage",
+          "achieve",
+          "hesitate"
+        ],
+        "correct": "encourage"
+      },
+      {
+        "id": 12,
+        "sentence": "The team plans to ___ a new application.",
+        "options": [
+          "develop",
+          "fluent",
+          "reliable"
+        ],
+        "correct": "develop"
+      },
+      {
+        "id": 13,
+        "sentence": "She felt ___ before giving her speech.",
+        "options": [
+          "confident",
+          "convenient",
+          "environmental"
+        ],
+        "correct": "confident"
+      },
+      {
+        "id": 14,
+        "sentence": "Travelling gave him valuable life ___.",
+        "options": [
+          "experience",
+          "decision",
+          "challenge"
+        ],
+        "correct": "experience"
+      },
+      {
+        "id": 15,
+        "sentence": "We need an effective ___ to the problem.",
+        "options": [
+          "solution",
+          "opportunity",
+          "environment"
+        ],
+        "correct": "solution"
+      }
+    ],
+    "C1_C2": [
+      {
+        "id": 1,
+        "sentence": "Smartphones are now ___ in modern society.",
+        "options": [
+          "ubiquitous",
+          "lucid",
+          "tenacious"
+        ],
+        "correct": "ubiquitous"
+      },
+      {
+        "id": 2,
+        "sentence": "She is an ___ speaker who explains ideas clearly.",
+        "options": [
+          "articulate",
+          "ambiguous",
+          "ephemeral"
+        ],
+        "correct": "articulate"
+      },
+      {
+        "id": 3,
+        "sentence": "He conducted ___ research before writing the report.",
+        "options": [
+          "meticulous",
+          "ubiquitous",
+          "inevitable"
+        ],
+        "correct": "meticulous"
+      },
+      {
+        "id": 4,
+        "sentence": "Online fame can be remarkably ___.",
+        "options": [
+          "ephemeral",
+          "profound",
+          "resilient"
+        ],
+        "correct": "ephemeral"
+      },
+      {
+        "id": 5,
+        "sentence": "___ people recover quickly from difficulties.",
+        "options": [
+          "Resilient",
+          "Superfluous",
+          "Ambiguous"
+        ],
+        "correct": "Resilient"
+      },
+      {
+        "id": 6,
+        "sentence": "Auditors will ___ every financial transaction.",
+        "options": [
+          "scrutinize",
+          "exacerbate",
+          "articulate"
+        ],
+        "correct": "scrutinize"
+      },
+      {
+        "id": 7,
+        "sentence": "Remove ___ words to make the argument concise.",
+        "options": [
+          "superfluous",
+          "tenacious",
+          "ubiquitous"
+        ],
+        "correct": "superfluous"
+      },
+      {
+        "id": 8,
+        "sentence": "The contract was dangerously ___.",
+        "options": [
+          "ambiguous",
+          "meticulous",
+          "resilient"
+        ],
+        "correct": "ambiguous"
+      },
+      {
+        "id": 9,
+        "sentence": "We adopted a ___ approach to the crisis.",
+        "options": [
+          "pragmatic",
+          "ephemeral",
+          "eloquent"
+        ],
+        "correct": "pragmatic"
+      },
+      {
+        "id": 10,
+        "sentence": "Her ___ speech moved the entire audience.",
+        "options": [
+          "eloquent",
+          "ubiquitous",
+          "ambiguous"
+        ],
+        "correct": "eloquent"
+      },
+      {
+        "id": 11,
+        "sentence": "Panic will only ___ the situation.",
+        "options": [
+          "exacerbate",
+          "scrutinize",
+          "articulate"
+        ],
+        "correct": "exacerbate"
+      },
+      {
+        "id": 12,
+        "sentence": "The discovery had a ___ effect on medicine.",
+        "options": [
+          "profound",
+          "ephemeral",
+          "superfluous"
+        ],
+        "correct": "profound"
+      },
+      {
+        "id": 13,
+        "sentence": "Her ___ effort led to remarkable success.",
+        "options": [
+          "tenacious",
+          "lucid",
+          "ubiquitous"
+        ],
+        "correct": "tenacious"
+      },
+      {
+        "id": 14,
+        "sentence": "Technological change is ___.",
+        "options": [
+          "inevitable",
+          "meticulous",
+          "eloquent"
+        ],
+        "correct": "inevitable"
+      },
+      {
+        "id": 15,
+        "sentence": "The professor gave a ___ explanation.",
+        "options": [
+          "lucid",
+          "ambiguous",
+          "ephemeral"
+        ],
+        "correct": "lucid"
+      }
+    ]
+  }
+}
